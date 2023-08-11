@@ -216,7 +216,7 @@ Audio files contain the following information at the end of the file name: "vbr-
 
 For more information on compression levels, please visit the [FFmpeg MP3 Encoding Guide](https://trac.ffmpeg.org/wiki/Encode/MP3).
 
-## Next Steps:
+## Next Steps
 
 - adding <b>media items</b> (i.e. photos and videos) into our conversion/compression processes.
 - rebranding CBBT-ER (I promise we'll give it a better/easier name with no more than two words)
