@@ -1,0 +1,109 @@
+{
+	"languages": [
+		{
+			"id": "apd",
+			"namePrefix": "Sudanese Spoken",
+			"name": "Arabic",
+			"languageOfPrefix": "",
+			"languageOf": "Sudan"
+		},
+		{
+			"id": "ase",
+			"namePrefix": "",
+			"name": "American Sign Language",
+			"languageOfPrefix": "",
+			"languageOf": "United States"
+		},
+		{
+			"id": "cmn",
+			"namePrefix": "Mandarin",
+			"name": "Chinese",
+			"languageOfPrefix": "",
+			"languageOf": "China"
+		},
+		{
+			"id": "eng",
+			"namePrefix": "",
+			"name": "English",
+			"languageOfPrefix": "",
+			"languageOf": "United Kingdom"
+		},
+		{
+			"id": "fas",
+			"namePrefix": "",
+			"name": "Persian",
+			"languageOfPrefix": "Islamic Republic of",
+			"languageOf": "Iran"
+		},
+		{
+			"id": "fil",
+			"namePrefix": "",
+			"name": "Filipino",
+			"languageOfPrefix": "",
+			"languageOf": "Philippines"
+		},
+		{
+			"id": "fra",
+			"namePrefix": "",
+			"name": "French",
+			"languageOfPrefix": "",
+			"languageOf": "France"
+		},
+		{
+			"id": "hin",
+			"namePrefix": "",
+			"name": "Hindi",
+			"languageOfPrefix": "",
+			"languageOf": "India"
+		},
+		{
+			"id": "ind",
+			"namePrefix": "",
+			"name": "Indonesian",
+			"languageOfPrefix": "",
+			"languageOf": "Indonesia"
+		},
+		{
+			"id": "por",
+			"namePrefix": "",
+			"name": "Portuguese",
+			"languageOfPrefix": "",
+			"languageOf": "Portugal"
+		},
+		{
+			"id": "rus",
+			"namePrefix": "",
+			"name": "Russian",
+			"languageOfPrefix": "",
+			"languageOf": "Russian Federation"
+		},
+		{
+			"id": "spa",
+			"namePrefix": "",
+			"name": "Spanish",
+			"languageOfPrefix": "",
+			"languageOf": "Spain"
+		},
+		{
+			"id": "swh",
+			"namePrefix": "",
+			"name": "Swahili",
+			"languageOfPrefix": "United Republic of",
+			"languageOf": "Tanzania"
+		},
+		{
+			"id": "tpi",
+			"namePrefix": "",
+			"name": "Tok Pisin",
+			"languageOfPrefix": "",
+			"languageOf": "Papua New Guinea"
+		},
+		{
+			"id": "urd",
+			"namePrefix": "",
+			"name": "Urdu",
+			"languageOfPrefix": "",
+			"languageOf": "Pakistan"
+		}
+	]
+}

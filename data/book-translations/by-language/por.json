@@ -1,0 +1,605 @@
+{
+	"language": {
+		"id": "por",
+		"namePrefix": "",
+		"name": "Portuguese",
+		"languageOfPrefix": "",
+		"languageOf": "Portugal",
+		"bookTranslations": [
+			{
+				"id": "por-1ch",
+				"title": "1 Crônicas",
+				"bookReference": {
+					"id": "1ch",
+					"lineup": 13,
+					"title": "1 Chronicles"
+				}
+			},
+			{
+				"id": "por-1co",
+				"title": "1 Coríntios",
+				"bookReference": {
+					"id": "1co",
+					"lineup": 46,
+					"title": "1 Corinthians"
+				}
+			},
+			{
+				"id": "por-1jn",
+				"title": "1 João",
+				"bookReference": {
+					"id": "1jn",
+					"lineup": 62,
+					"title": "1 John"
+				}
+			},
+			{
+				"id": "por-1ki",
+				"title": "1 Reis",
+				"bookReference": {
+					"id": "1ki",
+					"lineup": 11,
+					"title": "1 Kings"
+				}
+			},
+			{
+				"id": "por-1pe",
+				"title": "1 Pedro",
+				"bookReference": {
+					"id": "1pe",
+					"lineup": 60,
+					"title": "1 Peter"
+				}
+			},
+			{
+				"id": "por-1sa",
+				"title": "1 Samuel",
+				"bookReference": {
+					"id": "1sa",
+					"lineup": 9,
+					"title": "1 Samuel"
+				}
+			},
+			{
+				"id": "por-1th",
+				"title": "1 Tessalonicenses",
+				"bookReference": {
+					"id": "1th",
+					"lineup": 52,
+					"title": "1 Thessalonians"
+				}
+			},
+			{
+				"id": "por-1ti",
+				"title": "1 Timóteo",
+				"bookReference": {
+					"id": "1ti",
+					"lineup": 54,
+					"title": "1 Timothy"
+				}
+			},
+			{
+				"id": "por-2ch",
+				"title": "2 Crônicas",
+				"bookReference": {
+					"id": "2ch",
+					"lineup": 14,
+					"title": "2 Chronicles"
+				}
+			},
+			{
+				"id": "por-2co",
+				"title": "2 Coríntios",
+				"bookReference": {
+					"id": "2co",
+					"lineup": 47,
+					"title": "2 Corinthians"
+				}
+			},
+			{
+				"id": "por-2jn",
+				"title": "2 João",
+				"bookReference": {
+					"id": "2jn",
+					"lineup": 63,
+					"title": "2 John"
+				}
+			},
+			{
+				"id": "por-2ki",
+				"title": "2 Reis",
+				"bookReference": {
+					"id": "2ki",
+					"lineup": 12,
+					"title": "2 Kings"
+				}
+			},
+			{
+				"id": "por-2pe",
+				"title": "2 Pedro",
+				"bookReference": {
+					"id": "2pe",
+					"lineup": 61,
+					"title": "2 Peter"
+				}
+			},
+			{
+				"id": "por-2sa",
+				"title": "2 Samuel",
+				"bookReference": {
+					"id": "2sa",
+					"lineup": 10,
+					"title": "2 Samuel"
+				}
+			},
+			{
+				"id": "por-2th",
+				"title": "2 Tessalonicenses",
+				"bookReference": {
+					"id": "2th",
+					"lineup": 53,
+					"title": "2 Thessalonians"
+				}
+			},
+			{
+				"id": "por-2ti",
+				"title": "2 Timóteo",
+				"bookReference": {
+					"id": "2ti",
+					"lineup": 55,
+					"title": "2 Timothy"
+				}
+			},
+			{
+				"id": "por-3jn",
+				"title": "3 João",
+				"bookReference": {
+					"id": "3jn",
+					"lineup": 64,
+					"title": "3 John"
+				}
+			},
+			{
+				"id": "por-act",
+				"title": "Atos",
+				"bookReference": {
+					"id": "act",
+					"lineup": 44,
+					"title": "Acts"
+				}
+			},
+			{
+				"id": "por-amo",
+				"title": "Amós",
+				"bookReference": {
+					"id": "amo",
+					"lineup": 30,
+					"title": "Amos"
+				}
+			},
+			{
+				"id": "por-col",
+				"title": "Colossenses",
+				"bookReference": {
+					"id": "col",
+					"lineup": 51,
+					"title": "Colossians"
+				}
+			},
+			{
+				"id": "por-dan",
+				"title": "Daniel",
+				"bookReference": {
+					"id": "dan",
+					"lineup": 27,
+					"title": "Daniel"
+				}
+			},
+			{
+				"id": "por-deu",
+				"title": "Deuteronômio",
+				"bookReference": {
+					"id": "deu",
+					"lineup": 5,
+					"title": "Deuteronomy"
+				}
+			},
+			{
+				"id": "por-ecc",
+				"title": "Eclesiastes",
+				"bookReference": {
+					"id": "ecc",
+					"lineup": 21,
+					"title": "Ecclesiastes"
+				}
+			},
+			{
+				"id": "por-eph",
+				"title": "Efésios",
+				"bookReference": {
+					"id": "eph",
+					"lineup": 49,
+					"title": "Ephesians"
+				}
+			},
+			{
+				"id": "por-est",
+				"title": "Ester",
+				"bookReference": {
+					"id": "est",
+					"lineup": 17,
+					"title": "Esther"
+				}
+			},
+			{
+				"id": "por-exo",
+				"title": "Êxodo",
+				"bookReference": {
+					"id": "exo",
+					"lineup": 2,
+					"title": "Exodus"
+				}
+			},
+			{
+				"id": "por-ezk",
+				"title": "Ezequiel",
+				"bookReference": {
+					"id": "ezk",
+					"lineup": 26,
+					"title": "Ezekiel"
+				}
+			},
+			{
+				"id": "por-ezr",
+				"title": "Esdras",
+				"bookReference": {
+					"id": "ezr",
+					"lineup": 15,
+					"title": "Ezra"
+				}
+			},
+			{
+				"id": "por-gal",
+				"title": "Gálatas",
+				"bookReference": {
+					"id": "gal",
+					"lineup": 48,
+					"title": "Galatians"
+				}
+			},
+			{
+				"id": "por-gen",
+				"title": "Gênesis",
+				"bookReference": {
+					"id": "gen",
+					"lineup": 1,
+					"title": "Genesis"
+				}
+			},
+			{
+				"id": "por-hab",
+				"title": "Habacuque",
+				"bookReference": {
+					"id": "hab",
+					"lineup": 35,
+					"title": "Habakkuk"
+				}
+			},
+			{
+				"id": "por-hag",
+				"title": "Ageu",
+				"bookReference": {
+					"id": "hag",
+					"lineup": 37,
+					"title": "Haggai"
+				}
+			},
+			{
+				"id": "por-heb",
+				"title": "Hebreus",
+				"bookReference": {
+					"id": "heb",
+					"lineup": 58,
+					"title": "Hebrews"
+				}
+			},
+			{
+				"id": "por-hos",
+				"title": "Oseias",
+				"bookReference": {
+					"id": "hos",
+					"lineup": 28,
+					"title": "Hosea"
+				}
+			},
+			{
+				"id": "por-isa",
+				"title": "Isaías",
+				"bookReference": {
+					"id": "isa",
+					"lineup": 23,
+					"title": "Isaiah"
+				}
+			},
+			{
+				"id": "por-jas",
+				"title": "Tiago",
+				"bookReference": {
+					"id": "jas",
+					"lineup": 59,
+					"title": "James"
+				}
+			},
+			{
+				"id": "por-jdg",
+				"title": "Juízes",
+				"bookReference": {
+					"id": "jdg",
+					"lineup": 7,
+					"title": "Judges"
+				}
+			},
+			{
+				"id": "por-jer",
+				"title": "Jeremias",
+				"bookReference": {
+					"id": "jer",
+					"lineup": 24,
+					"title": "Jeremiah"
+				}
+			},
+			{
+				"id": "por-jhn",
+				"title": "João",
+				"bookReference": {
+					"id": "jhn",
+					"lineup": 43,
+					"title": "John"
+				}
+			},
+			{
+				"id": "por-job",
+				"title": "Jó",
+				"bookReference": {
+					"id": "job",
+					"lineup": 18,
+					"title": "Job"
+				}
+			},
+			{
+				"id": "por-jol",
+				"title": "Joel",
+				"bookReference": {
+					"id": "jol",
+					"lineup": 29,
+					"title": "Joel"
+				}
+			},
+			{
+				"id": "por-jon",
+				"title": "Jonas",
+				"bookReference": {
+					"id": "jon",
+					"lineup": 32,
+					"title": "Jonah"
+				}
+			},
+			{
+				"id": "por-jos",
+				"title": "Josué",
+				"bookReference": {
+					"id": "jos",
+					"lineup": 6,
+					"title": "Joshua"
+				}
+			},
+			{
+				"id": "por-jud",
+				"title": "Judas",
+				"bookReference": {
+					"id": "jud",
+					"lineup": 65,
+					"title": "Jude"
+				}
+			},
+			{
+				"id": "por-lam",
+				"title": "Lamentações",
+				"bookReference": {
+					"id": "lam",
+					"lineup": 25,
+					"title": "Lamentations"
+				}
+			},
+			{
+				"id": "por-lev",
+				"title": "Levítico",
+				"bookReference": {
+					"id": "lev",
+					"lineup": 3,
+					"title": "Leviticus"
+				}
+			},
+			{
+				"id": "por-luk",
+				"title": "Lucas",
+				"bookReference": {
+					"id": "luk",
+					"lineup": 42,
+					"title": "Luke"
+				}
+			},
+			{
+				"id": "por-mal",
+				"title": "Malaquias",
+				"bookReference": {
+					"id": "mal",
+					"lineup": 39,
+					"title": "Malachi"
+				}
+			},
+			{
+				"id": "por-mat",
+				"title": "Mateus",
+				"bookReference": {
+					"id": "mat",
+					"lineup": 40,
+					"title": "Matthew"
+				}
+			},
+			{
+				"id": "por-mic",
+				"title": "Miqueias",
+				"bookReference": {
+					"id": "mic",
+					"lineup": 33,
+					"title": "Micah"
+				}
+			},
+			{
+				"id": "por-mrk",
+				"title": "Marcos",
+				"bookReference": {
+					"id": "mrk",
+					"lineup": 41,
+					"title": "Mark"
+				}
+			},
+			{
+				"id": "por-nam",
+				"title": "Naum",
+				"bookReference": {
+					"id": "nam",
+					"lineup": 34,
+					"title": "Nahum"
+				}
+			},
+			{
+				"id": "por-neh",
+				"title": "Neemias",
+				"bookReference": {
+					"id": "neh",
+					"lineup": 16,
+					"title": "Nehemiah"
+				}
+			},
+			{
+				"id": "por-num",
+				"title": "Números",
+				"bookReference": {
+					"id": "num",
+					"lineup": 4,
+					"title": "Numbers"
+				}
+			},
+			{
+				"id": "por-oba",
+				"title": "Obadias",
+				"bookReference": {
+					"id": "oba",
+					"lineup": 31,
+					"title": "Obadiah"
+				}
+			},
+			{
+				"id": "por-phm",
+				"title": "Filemom",
+				"bookReference": {
+					"id": "phm",
+					"lineup": 57,
+					"title": "Philemon"
+				}
+			},
+			{
+				"id": "por-php",
+				"title": "Filipenses",
+				"bookReference": {
+					"id": "php",
+					"lineup": 50,
+					"title": "Philippians"
+				}
+			},
+			{
+				"id": "por-pro",
+				"title": "Provérbios",
+				"bookReference": {
+					"id": "pro",
+					"lineup": 20,
+					"title": "Proverbs"
+				}
+			},
+			{
+				"id": "por-psa",
+				"title": "Salmos",
+				"bookReference": {
+					"id": "psa",
+					"lineup": 19,
+					"title": "Psalms"
+				}
+			},
+			{
+				"id": "por-rev",
+				"title": "Apocalipse",
+				"bookReference": {
+					"id": "rev",
+					"lineup": 66,
+					"title": "Revelation"
+				}
+			},
+			{
+				"id": "por-rom",
+				"title": "Romanos",
+				"bookReference": {
+					"id": "rom",
+					"lineup": 45,
+					"title": "Romans"
+				}
+			},
+			{
+				"id": "por-rut",
+				"title": "Rute",
+				"bookReference": {
+					"id": "rut",
+					"lineup": 8,
+					"title": "Ruth"
+				}
+			},
+			{
+				"id": "por-sng",
+				"title": "Cântico de Salomão",
+				"bookReference": {
+					"id": "sng",
+					"lineup": 22,
+					"title": "Song of Solomon"
+				}
+			},
+			{
+				"id": "por-tit",
+				"title": "Tito",
+				"bookReference": {
+					"id": "tit",
+					"lineup": 56,
+					"title": "Titus"
+				}
+			},
+			{
+				"id": "por-zec",
+				"title": "Zacarias",
+				"bookReference": {
+					"id": "zec",
+					"lineup": 38,
+					"title": "Zechariah"
+				}
+			},
+			{
+				"id": "por-zep",
+				"title": "Sofonias",
+				"bookReference": {
+					"id": "zep",
+					"lineup": 36,
+					"title": "Zephaniah"
+				}
+			}
+		]
+	}
+}

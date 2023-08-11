@@ -1,0 +1,605 @@
+{
+	"language": {
+		"id": "swh",
+		"namePrefix": "",
+		"name": "Swahili",
+		"languageOfPrefix": "United Republic of",
+		"languageOf": "Tanzania",
+		"bookTranslations": [
+			{
+				"id": "swh-1ch",
+				"title": "1 Mambo ya Nyakati",
+				"bookReference": {
+					"id": "1ch",
+					"lineup": 13,
+					"title": "1 Chronicles"
+				}
+			},
+			{
+				"id": "swh-1co",
+				"title": "1 Wakorintho",
+				"bookReference": {
+					"id": "1co",
+					"lineup": 46,
+					"title": "1 Corinthians"
+				}
+			},
+			{
+				"id": "swh-1jn",
+				"title": "1 Yohana",
+				"bookReference": {
+					"id": "1jn",
+					"lineup": 62,
+					"title": "1 John"
+				}
+			},
+			{
+				"id": "swh-1ki",
+				"title": "1 Wafalme",
+				"bookReference": {
+					"id": "1ki",
+					"lineup": 11,
+					"title": "1 Kings"
+				}
+			},
+			{
+				"id": "swh-1pe",
+				"title": "1 Petro",
+				"bookReference": {
+					"id": "1pe",
+					"lineup": 60,
+					"title": "1 Peter"
+				}
+			},
+			{
+				"id": "swh-1sa",
+				"title": "1 Samweli",
+				"bookReference": {
+					"id": "1sa",
+					"lineup": 9,
+					"title": "1 Samuel"
+				}
+			},
+			{
+				"id": "swh-1th",
+				"title": "1 Wathesalonike",
+				"bookReference": {
+					"id": "1th",
+					"lineup": 52,
+					"title": "1 Thessalonians"
+				}
+			},
+			{
+				"id": "swh-1ti",
+				"title": "1 Timotheo",
+				"bookReference": {
+					"id": "1ti",
+					"lineup": 54,
+					"title": "1 Timothy"
+				}
+			},
+			{
+				"id": "swh-2ch",
+				"title": "2 Mambo ya Nyakati",
+				"bookReference": {
+					"id": "2ch",
+					"lineup": 14,
+					"title": "2 Chronicles"
+				}
+			},
+			{
+				"id": "swh-2co",
+				"title": "2 Wakorintho",
+				"bookReference": {
+					"id": "2co",
+					"lineup": 47,
+					"title": "2 Corinthians"
+				}
+			},
+			{
+				"id": "swh-2jn",
+				"title": "2 Yohana",
+				"bookReference": {
+					"id": "2jn",
+					"lineup": 63,
+					"title": "2 John"
+				}
+			},
+			{
+				"id": "swh-2ki",
+				"title": "2 Wafalme",
+				"bookReference": {
+					"id": "2ki",
+					"lineup": 12,
+					"title": "2 Kings"
+				}
+			},
+			{
+				"id": "swh-2pe",
+				"title": "2 Petro",
+				"bookReference": {
+					"id": "2pe",
+					"lineup": 61,
+					"title": "2 Peter"
+				}
+			},
+			{
+				"id": "swh-2sa",
+				"title": "2 Samweli",
+				"bookReference": {
+					"id": "2sa",
+					"lineup": 10,
+					"title": "2 Samuel"
+				}
+			},
+			{
+				"id": "swh-2th",
+				"title": "2 Wathesalonike",
+				"bookReference": {
+					"id": "2th",
+					"lineup": 53,
+					"title": "2 Thessalonians"
+				}
+			},
+			{
+				"id": "swh-2ti",
+				"title": "2 Timotheo",
+				"bookReference": {
+					"id": "2ti",
+					"lineup": 55,
+					"title": "2 Timothy"
+				}
+			},
+			{
+				"id": "swh-3jn",
+				"title": "3 Yohana",
+				"bookReference": {
+					"id": "3jn",
+					"lineup": 64,
+					"title": "3 John"
+				}
+			},
+			{
+				"id": "swh-act",
+				"title": "Matendo",
+				"bookReference": {
+					"id": "act",
+					"lineup": 44,
+					"title": "Acts"
+				}
+			},
+			{
+				"id": "swh-amo",
+				"title": "Amosi",
+				"bookReference": {
+					"id": "amo",
+					"lineup": 30,
+					"title": "Amos"
+				}
+			},
+			{
+				"id": "swh-col",
+				"title": "Wakolosai",
+				"bookReference": {
+					"id": "col",
+					"lineup": 51,
+					"title": "Colossians"
+				}
+			},
+			{
+				"id": "swh-dan",
+				"title": "Danieli",
+				"bookReference": {
+					"id": "dan",
+					"lineup": 27,
+					"title": "Daniel"
+				}
+			},
+			{
+				"id": "swh-deu",
+				"title": "Kumbukumbu la Torati",
+				"bookReference": {
+					"id": "deu",
+					"lineup": 5,
+					"title": "Deuteronomy"
+				}
+			},
+			{
+				"id": "swh-ecc",
+				"title": "Mhubiri",
+				"bookReference": {
+					"id": "ecc",
+					"lineup": 21,
+					"title": "Ecclesiastes"
+				}
+			},
+			{
+				"id": "swh-eph",
+				"title": "Waefeso",
+				"bookReference": {
+					"id": "eph",
+					"lineup": 49,
+					"title": "Ephesians"
+				}
+			},
+			{
+				"id": "swh-est",
+				"title": "Esta",
+				"bookReference": {
+					"id": "est",
+					"lineup": 17,
+					"title": "Esther"
+				}
+			},
+			{
+				"id": "swh-exo",
+				"title": "Kutoka",
+				"bookReference": {
+					"id": "exo",
+					"lineup": 2,
+					"title": "Exodus"
+				}
+			},
+			{
+				"id": "swh-ezk",
+				"title": "Ezekieli",
+				"bookReference": {
+					"id": "ezk",
+					"lineup": 26,
+					"title": "Ezekiel"
+				}
+			},
+			{
+				"id": "swh-ezr",
+				"title": "Ezra",
+				"bookReference": {
+					"id": "ezr",
+					"lineup": 15,
+					"title": "Ezra"
+				}
+			},
+			{
+				"id": "swh-gal",
+				"title": "Wagalatia",
+				"bookReference": {
+					"id": "gal",
+					"lineup": 48,
+					"title": "Galatians"
+				}
+			},
+			{
+				"id": "swh-gen",
+				"title": "Mwanzo",
+				"bookReference": {
+					"id": "gen",
+					"lineup": 1,
+					"title": "Genesis"
+				}
+			},
+			{
+				"id": "swh-hab",
+				"title": "Habakuki",
+				"bookReference": {
+					"id": "hab",
+					"lineup": 35,
+					"title": "Habakkuk"
+				}
+			},
+			{
+				"id": "swh-hag",
+				"title": "Hagai",
+				"bookReference": {
+					"id": "hag",
+					"lineup": 37,
+					"title": "Haggai"
+				}
+			},
+			{
+				"id": "swh-heb",
+				"title": "Waebrania",
+				"bookReference": {
+					"id": "heb",
+					"lineup": 58,
+					"title": "Hebrews"
+				}
+			},
+			{
+				"id": "swh-hos",
+				"title": "Hosea",
+				"bookReference": {
+					"id": "hos",
+					"lineup": 28,
+					"title": "Hosea"
+				}
+			},
+			{
+				"id": "swh-isa",
+				"title": "Isaya",
+				"bookReference": {
+					"id": "isa",
+					"lineup": 23,
+					"title": "Isaiah"
+				}
+			},
+			{
+				"id": "swh-jas",
+				"title": "Yakobo",
+				"bookReference": {
+					"id": "jas",
+					"lineup": 59,
+					"title": "James"
+				}
+			},
+			{
+				"id": "swh-jdg",
+				"title": "Waamuzi",
+				"bookReference": {
+					"id": "jdg",
+					"lineup": 7,
+					"title": "Judges"
+				}
+			},
+			{
+				"id": "swh-jer",
+				"title": "Yeremia",
+				"bookReference": {
+					"id": "jer",
+					"lineup": 24,
+					"title": "Jeremiah"
+				}
+			},
+			{
+				"id": "swh-jhn",
+				"title": "Yohana",
+				"bookReference": {
+					"id": "jhn",
+					"lineup": 43,
+					"title": "John"
+				}
+			},
+			{
+				"id": "swh-job",
+				"title": "Ayubu",
+				"bookReference": {
+					"id": "job",
+					"lineup": 18,
+					"title": "Job"
+				}
+			},
+			{
+				"id": "swh-jol",
+				"title": "Yoeli",
+				"bookReference": {
+					"id": "jol",
+					"lineup": 29,
+					"title": "Joel"
+				}
+			},
+			{
+				"id": "swh-jon",
+				"title": "Yona",
+				"bookReference": {
+					"id": "jon",
+					"lineup": 32,
+					"title": "Jonah"
+				}
+			},
+			{
+				"id": "swh-jos",
+				"title": "Yoshua",
+				"bookReference": {
+					"id": "jos",
+					"lineup": 6,
+					"title": "Joshua"
+				}
+			},
+			{
+				"id": "swh-jud",
+				"title": "Yuda",
+				"bookReference": {
+					"id": "jud",
+					"lineup": 65,
+					"title": "Jude"
+				}
+			},
+			{
+				"id": "swh-lam",
+				"title": "Maombolezo",
+				"bookReference": {
+					"id": "lam",
+					"lineup": 25,
+					"title": "Lamentations"
+				}
+			},
+			{
+				"id": "swh-lev",
+				"title": "Mambo ya Walawi",
+				"bookReference": {
+					"id": "lev",
+					"lineup": 3,
+					"title": "Leviticus"
+				}
+			},
+			{
+				"id": "swh-luk",
+				"title": "Luka",
+				"bookReference": {
+					"id": "luk",
+					"lineup": 42,
+					"title": "Luke"
+				}
+			},
+			{
+				"id": "swh-mal",
+				"title": "Malaki",
+				"bookReference": {
+					"id": "mal",
+					"lineup": 39,
+					"title": "Malachi"
+				}
+			},
+			{
+				"id": "swh-mat",
+				"title": "Mathayo",
+				"bookReference": {
+					"id": "mat",
+					"lineup": 40,
+					"title": "Matthew"
+				}
+			},
+			{
+				"id": "swh-mic",
+				"title": "Mika",
+				"bookReference": {
+					"id": "mic",
+					"lineup": 33,
+					"title": "Micah"
+				}
+			},
+			{
+				"id": "swh-mrk",
+				"title": "Marko",
+				"bookReference": {
+					"id": "mrk",
+					"lineup": 41,
+					"title": "Mark"
+				}
+			},
+			{
+				"id": "swh-nam",
+				"title": "Nahumu",
+				"bookReference": {
+					"id": "nam",
+					"lineup": 34,
+					"title": "Nahum"
+				}
+			},
+			{
+				"id": "swh-neh",
+				"title": "Nehemia",
+				"bookReference": {
+					"id": "neh",
+					"lineup": 16,
+					"title": "Nehemiah"
+				}
+			},
+			{
+				"id": "swh-num",
+				"title": "Hesabu",
+				"bookReference": {
+					"id": "num",
+					"lineup": 4,
+					"title": "Numbers"
+				}
+			},
+			{
+				"id": "swh-oba",
+				"title": "Obadia",
+				"bookReference": {
+					"id": "oba",
+					"lineup": 31,
+					"title": "Obadiah"
+				}
+			},
+			{
+				"id": "swh-phm",
+				"title": "Filemoni",
+				"bookReference": {
+					"id": "phm",
+					"lineup": 57,
+					"title": "Philemon"
+				}
+			},
+			{
+				"id": "swh-php",
+				"title": "Wafilipi",
+				"bookReference": {
+					"id": "php",
+					"lineup": 50,
+					"title": "Philippians"
+				}
+			},
+			{
+				"id": "swh-pro",
+				"title": "Methali",
+				"bookReference": {
+					"id": "pro",
+					"lineup": 20,
+					"title": "Proverbs"
+				}
+			},
+			{
+				"id": "swh-psa",
+				"title": "Zaburi",
+				"bookReference": {
+					"id": "psa",
+					"lineup": 19,
+					"title": "Psalms"
+				}
+			},
+			{
+				"id": "swh-rev",
+				"title": "Ufunuo",
+				"bookReference": {
+					"id": "rev",
+					"lineup": 66,
+					"title": "Revelation"
+				}
+			},
+			{
+				"id": "swh-rom",
+				"title": "Warumi",
+				"bookReference": {
+					"id": "rom",
+					"lineup": 45,
+					"title": "Romans"
+				}
+			},
+			{
+				"id": "swh-rut",
+				"title": "Ruthu",
+				"bookReference": {
+					"id": "rut",
+					"lineup": 8,
+					"title": "Ruth"
+				}
+			},
+			{
+				"id": "swh-sng",
+				"title": "Wimbo wa Solomoni",
+				"bookReference": {
+					"id": "sng",
+					"lineup": 22,
+					"title": "Song of Solomon"
+				}
+			},
+			{
+				"id": "swh-tit",
+				"title": "Tito",
+				"bookReference": {
+					"id": "tit",
+					"lineup": 56,
+					"title": "Titus"
+				}
+			},
+			{
+				"id": "swh-zec",
+				"title": "Zekaria",
+				"bookReference": {
+					"id": "zec",
+					"lineup": 38,
+					"title": "Zechariah"
+				}
+			},
+			{
+				"id": "swh-zep",
+				"title": "Sefania",
+				"bookReference": {
+					"id": "zep",
+					"lineup": 36,
+					"title": "Zephaniah"
+				}
+			}
+		]
+	}
+}

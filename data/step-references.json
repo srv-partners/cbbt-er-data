@@ -1,0 +1,34 @@
+{
+	"stepReferences": [
+		{
+			"id": "1",
+			"sId": "s1",
+			"title": "Hear and Heart"
+		},
+		{
+			"id": "2",
+			"sId": "s2",
+			"title": "Setting the Stage"
+		},
+		{
+			"id": "3",
+			"sId": "s3",
+			"title": "Defining the Scenes"
+		},
+		{
+			"id": "4",
+			"sId": "s4",
+			"title": "Embodying the Text"
+		},
+		{
+			"id": "5",
+			"sId": "s5",
+			"title": "Filling the Gaps"
+		},
+		{
+			"id": "6",
+			"sId": "s6",
+			"title": "Speaking the Word"
+		}
+	]
+}

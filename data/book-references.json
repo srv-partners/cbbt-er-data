@@ -1,0 +1,334 @@
+{
+	"bookReferences": [
+		{
+			"id": "gen",
+			"lineup": 1,
+			"title": "Genesis"
+		},
+		{
+			"id": "exo",
+			"lineup": 2,
+			"title": "Exodus"
+		},
+		{
+			"id": "lev",
+			"lineup": 3,
+			"title": "Leviticus"
+		},
+		{
+			"id": "num",
+			"lineup": 4,
+			"title": "Numbers"
+		},
+		{
+			"id": "deu",
+			"lineup": 5,
+			"title": "Deuteronomy"
+		},
+		{
+			"id": "jos",
+			"lineup": 6,
+			"title": "Joshua"
+		},
+		{
+			"id": "jdg",
+			"lineup": 7,
+			"title": "Judges"
+		},
+		{
+			"id": "rut",
+			"lineup": 8,
+			"title": "Ruth"
+		},
+		{
+			"id": "1sa",
+			"lineup": 9,
+			"title": "1 Samuel"
+		},
+		{
+			"id": "2sa",
+			"lineup": 10,
+			"title": "2 Samuel"
+		},
+		{
+			"id": "1ki",
+			"lineup": 11,
+			"title": "1 Kings"
+		},
+		{
+			"id": "2ki",
+			"lineup": 12,
+			"title": "2 Kings"
+		},
+		{
+			"id": "1ch",
+			"lineup": 13,
+			"title": "1 Chronicles"
+		},
+		{
+			"id": "2ch",
+			"lineup": 14,
+			"title": "2 Chronicles"
+		},
+		{
+			"id": "ezr",
+			"lineup": 15,
+			"title": "Ezra"
+		},
+		{
+			"id": "neh",
+			"lineup": 16,
+			"title": "Nehemiah"
+		},
+		{
+			"id": "est",
+			"lineup": 17,
+			"title": "Esther"
+		},
+		{
+			"id": "job",
+			"lineup": 18,
+			"title": "Job"
+		},
+		{
+			"id": "psa",
+			"lineup": 19,
+			"title": "Psalms"
+		},
+		{
+			"id": "pro",
+			"lineup": 20,
+			"title": "Proverbs"
+		},
+		{
+			"id": "ecc",
+			"lineup": 21,
+			"title": "Ecclesiastes"
+		},
+		{
+			"id": "sng",
+			"lineup": 22,
+			"title": "Song of Solomon"
+		},
+		{
+			"id": "isa",
+			"lineup": 23,
+			"title": "Isaiah"
+		},
+		{
+			"id": "jer",
+			"lineup": 24,
+			"title": "Jeremiah"
+		},
+		{
+			"id": "lam",
+			"lineup": 25,
+			"title": "Lamentations"
+		},
+		{
+			"id": "ezk",
+			"lineup": 26,
+			"title": "Ezekiel"
+		},
+		{
+			"id": "dan",
+			"lineup": 27,
+			"title": "Daniel"
+		},
+		{
+			"id": "hos",
+			"lineup": 28,
+			"title": "Hosea"
+		},
+		{
+			"id": "jol",
+			"lineup": 29,
+			"title": "Joel"
+		},
+		{
+			"id": "amo",
+			"lineup": 30,
+			"title": "Amos"
+		},
+		{
+			"id": "oba",
+			"lineup": 31,
+			"title": "Obadiah"
+		},
+		{
+			"id": "jon",
+			"lineup": 32,
+			"title": "Jonah"
+		},
+		{
+			"id": "mic",
+			"lineup": 33,
+			"title": "Micah"
+		},
+		{
+			"id": "nam",
+			"lineup": 34,
+			"title": "Nahum"
+		},
+		{
+			"id": "hab",
+			"lineup": 35,
+			"title": "Habakkuk"
+		},
+		{
+			"id": "zep",
+			"lineup": 36,
+			"title": "Zephaniah"
+		},
+		{
+			"id": "hag",
+			"lineup": 37,
+			"title": "Haggai"
+		},
+		{
+			"id": "zec",
+			"lineup": 38,
+			"title": "Zechariah"
+		},
+		{
+			"id": "mal",
+			"lineup": 39,
+			"title": "Malachi"
+		},
+		{
+			"id": "mat",
+			"lineup": 40,
+			"title": "Matthew"
+		},
+		{
+			"id": "mrk",
+			"lineup": 41,
+			"title": "Mark"
+		},
+		{
+			"id": "luk",
+			"lineup": 42,
+			"title": "Luke"
+		},
+		{
+			"id": "jhn",
+			"lineup": 43,
+			"title": "John"
+		},
+		{
+			"id": "act",
+			"lineup": 44,
+			"title": "Acts"
+		},
+		{
+			"id": "rom",
+			"lineup": 45,
+			"title": "Romans"
+		},
+		{
+			"id": "1co",
+			"lineup": 46,
+			"title": "1 Corinthians"
+		},
+		{
+			"id": "2co",
+			"lineup": 47,
+			"title": "2 Corinthians"
+		},
+		{
+			"id": "gal",
+			"lineup": 48,
+			"title": "Galatians"
+		},
+		{
+			"id": "eph",
+			"lineup": 49,
+			"title": "Ephesians"
+		},
+		{
+			"id": "php",
+			"lineup": 50,
+			"title": "Philippians"
+		},
+		{
+			"id": "col",
+			"lineup": 51,
+			"title": "Colossians"
+		},
+		{
+			"id": "1th",
+			"lineup": 52,
+			"title": "1 Thessalonians"
+		},
+		{
+			"id": "2th",
+			"lineup": 53,
+			"title": "2 Thessalonians"
+		},
+		{
+			"id": "1ti",
+			"lineup": 54,
+			"title": "1 Timothy"
+		},
+		{
+			"id": "2ti",
+			"lineup": 55,
+			"title": "2 Timothy"
+		},
+		{
+			"id": "tit",
+			"lineup": 56,
+			"title": "Titus"
+		},
+		{
+			"id": "phm",
+			"lineup": 57,
+			"title": "Philemon"
+		},
+		{
+			"id": "heb",
+			"lineup": 58,
+			"title": "Hebrews"
+		},
+		{
+			"id": "jas",
+			"lineup": 59,
+			"title": "James"
+		},
+		{
+			"id": "1pe",
+			"lineup": 60,
+			"title": "1 Peter"
+		},
+		{
+			"id": "2pe",
+			"lineup": 61,
+			"title": "2 Peter"
+		},
+		{
+			"id": "1jn",
+			"lineup": 62,
+			"title": "1 John"
+		},
+		{
+			"id": "2jn",
+			"lineup": 63,
+			"title": "2 John"
+		},
+		{
+			"id": "3jn",
+			"lineup": 64,
+			"title": "3 John"
+		},
+		{
+			"id": "jud",
+			"lineup": 65,
+			"title": "Jude"
+		},
+		{
+			"id": "rev",
+			"lineup": 66,
+			"title": "Revelation"
+		}
+	]
+}

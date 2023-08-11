@@ -1,0 +1,4426 @@
+{
+	"bookReferences": [
+		{
+			"id": "gen",
+			"lineup": 1,
+			"title": "Genesis",
+			"bookTranslations": [
+				{
+					"id": "apd-gen",
+					"title": "تكوين"
+				},
+				{
+					"id": "ase-gen",
+					"title": "Genesis"
+				},
+				{
+					"id": "cmn-gen",
+					"title": "《創世紀》"
+				},
+				{
+					"id": "eng-gen",
+					"title": "Genesis"
+				},
+				{
+					"id": "fas-gen",
+					"title": null
+				},
+				{
+					"id": "fil-gen",
+					"title": "Genesis"
+				},
+				{
+					"id": "fra-gen",
+					"title": "Genèse"
+				},
+				{
+					"id": "hin-gen",
+					"title": "उत्पत्ति"
+				},
+				{
+					"id": "ind-gen",
+					"title": "Kejadian"
+				},
+				{
+					"id": "por-gen",
+					"title": "Gênesis"
+				},
+				{
+					"id": "rus-gen",
+					"title": "Бытие"
+				},
+				{
+					"id": "spa-gen",
+					"title": "Génesis"
+				},
+				{
+					"id": "swh-gen",
+					"title": "Mwanzo"
+				},
+				{
+					"id": "tpi-gen",
+					"title": "Stat"
+				},
+				{
+					"id": "urd-gen",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "exo",
+			"lineup": 2,
+			"title": "Exodus",
+			"bookTranslations": [
+				{
+					"id": "apd-exo",
+					"title": "خُرُوج"
+				},
+				{
+					"id": "ase-exo",
+					"title": "Exodus"
+				},
+				{
+					"id": "cmn-exo",
+					"title": "《出埃及記》"
+				},
+				{
+					"id": "eng-exo",
+					"title": "Exodus"
+				},
+				{
+					"id": "fas-exo",
+					"title": null
+				},
+				{
+					"id": "fil-exo",
+					"title": "Exodo"
+				},
+				{
+					"id": "fra-exo",
+					"title": "Exode"
+				},
+				{
+					"id": "hin-exo",
+					"title": "निर्गमन"
+				},
+				{
+					"id": "ind-exo",
+					"title": "Keluaran"
+				},
+				{
+					"id": "por-exo",
+					"title": "Êxodo"
+				},
+				{
+					"id": "rus-exo",
+					"title": "Исход"
+				},
+				{
+					"id": "spa-exo",
+					"title": "Éxodo"
+				},
+				{
+					"id": "swh-exo",
+					"title": "Kutoka"
+				},
+				{
+					"id": "tpi-exo",
+					"title": "Kisim Bek"
+				},
+				{
+					"id": "urd-exo",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "lev",
+			"lineup": 3,
+			"title": "Leviticus",
+			"bookTranslations": [
+				{
+					"id": "apd-lev",
+					"title": "لاويين"
+				},
+				{
+					"id": "ase-lev",
+					"title": "Leviticus"
+				},
+				{
+					"id": "cmn-lev",
+					"title": "《利未記》"
+				},
+				{
+					"id": "eng-lev",
+					"title": "Leviticus"
+				},
+				{
+					"id": "fas-lev",
+					"title": null
+				},
+				{
+					"id": "fil-lev",
+					"title": "Levitico"
+				},
+				{
+					"id": "fra-lev",
+					"title": "Lévitique"
+				},
+				{
+					"id": "hin-lev",
+					"title": "लैव्यव्यवस्था"
+				},
+				{
+					"id": "ind-lev",
+					"title": "Imamat"
+				},
+				{
+					"id": "por-lev",
+					"title": "Levítico"
+				},
+				{
+					"id": "rus-lev",
+					"title": "Левит"
+				},
+				{
+					"id": "spa-lev",
+					"title": "Levítico"
+				},
+				{
+					"id": "swh-lev",
+					"title": "Mambo ya Walawi"
+				},
+				{
+					"id": "tpi-lev",
+					"title": "Wok Pris"
+				},
+				{
+					"id": "urd-lev",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "num",
+			"lineup": 4,
+			"title": "Numbers",
+			"bookTranslations": [
+				{
+					"id": "apd-num",
+					"title": "عدد"
+				},
+				{
+					"id": "ase-num",
+					"title": "Numbers"
+				},
+				{
+					"id": "cmn-num",
+					"title": "數字"
+				},
+				{
+					"id": "eng-num",
+					"title": "Numbers"
+				},
+				{
+					"id": "fas-num",
+					"title": null
+				},
+				{
+					"id": "fil-num",
+					"title": "Mga Bilang"
+				},
+				{
+					"id": "fra-num",
+					"title": "Nombres"
+				},
+				{
+					"id": "hin-num",
+					"title": "गिनती"
+				},
+				{
+					"id": "ind-num",
+					"title": "Bilangan"
+				},
+				{
+					"id": "por-num",
+					"title": "Números"
+				},
+				{
+					"id": "rus-num",
+					"title": "Числа"
+				},
+				{
+					"id": "spa-num",
+					"title": "Números"
+				},
+				{
+					"id": "swh-num",
+					"title": "Hesabu"
+				},
+				{
+					"id": "tpi-num",
+					"title": "Namba"
+				},
+				{
+					"id": "urd-num",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "deu",
+			"lineup": 5,
+			"title": "Deuteronomy",
+			"bookTranslations": [
+				{
+					"id": "apd-deu",
+					"title": "تثنية"
+				},
+				{
+					"id": "ase-deu",
+					"title": "Deuteronomy"
+				},
+				{
+					"id": "cmn-deu",
+					"title": "《申命記》"
+				},
+				{
+					"id": "eng-deu",
+					"title": "Deuteronomy"
+				},
+				{
+					"id": "fas-deu",
+					"title": null
+				},
+				{
+					"id": "fil-deu",
+					"title": "Deuteronomio"
+				},
+				{
+					"id": "fra-deu",
+					"title": "Deutéronome"
+				},
+				{
+					"id": "hin-deu",
+					"title": "व्यवस्थाविवरण"
+				},
+				{
+					"id": "ind-deu",
+					"title": "Ulangan"
+				},
+				{
+					"id": "por-deu",
+					"title": "Deuteronômio"
+				},
+				{
+					"id": "rus-deu",
+					"title": "Второзаконие"
+				},
+				{
+					"id": "spa-deu",
+					"title": "Deuteronomio"
+				},
+				{
+					"id": "swh-deu",
+					"title": "Kumbukumbu la Torati"
+				},
+				{
+					"id": "tpi-deu",
+					"title": "Lo"
+				},
+				{
+					"id": "urd-deu",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "jos",
+			"lineup": 6,
+			"title": "Joshua",
+			"bookTranslations": [
+				{
+					"id": "apd-jos",
+					"title": "يشوع"
+				},
+				{
+					"id": "ase-jos",
+					"title": "Joshua"
+				},
+				{
+					"id": "cmn-jos",
+					"title": "《約書亞記》"
+				},
+				{
+					"id": "eng-jos",
+					"title": "Joshua"
+				},
+				{
+					"id": "fas-jos",
+					"title": null
+				},
+				{
+					"id": "fil-jos",
+					"title": "Josue"
+				},
+				{
+					"id": "fra-jos",
+					"title": "Josué"
+				},
+				{
+					"id": "hin-jos",
+					"title": "यहोशू"
+				},
+				{
+					"id": "ind-jos",
+					"title": "Yosua"
+				},
+				{
+					"id": "por-jos",
+					"title": "Josué"
+				},
+				{
+					"id": "rus-jos",
+					"title": "Иисуса Навина"
+				},
+				{
+					"id": "spa-jos",
+					"title": "Josué"
+				},
+				{
+					"id": "swh-jos",
+					"title": "Yoshua"
+				},
+				{
+					"id": "tpi-jos",
+					"title": "Josua"
+				},
+				{
+					"id": "urd-jos",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "jdg",
+			"lineup": 7,
+			"title": "Judges",
+			"bookTranslations": [
+				{
+					"id": "apd-jdg",
+					"title": "قُضاة"
+				},
+				{
+					"id": "ase-jdg",
+					"title": "Judges"
+				},
+				{
+					"id": "cmn-jdg",
+					"title": "《士師記》"
+				},
+				{
+					"id": "eng-jdg",
+					"title": "Judges"
+				},
+				{
+					"id": "fas-jdg",
+					"title": null
+				},
+				{
+					"id": "fil-jdg",
+					"title": "Mga Hukom"
+				},
+				{
+					"id": "fra-jdg",
+					"title": "Juges"
+				},
+				{
+					"id": "hin-jdg",
+					"title": "न्यायियों"
+				},
+				{
+					"id": "ind-jdg",
+					"title": "Hakim-hakim"
+				},
+				{
+					"id": "por-jdg",
+					"title": "Juízes"
+				},
+				{
+					"id": "rus-jdg",
+					"title": "Судей"
+				},
+				{
+					"id": "spa-jdg",
+					"title": "Jueces"
+				},
+				{
+					"id": "swh-jdg",
+					"title": "Waamuzi"
+				},
+				{
+					"id": "tpi-jdg",
+					"title": "Hetman"
+				},
+				{
+					"id": "urd-jdg",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "rut",
+			"lineup": 8,
+			"title": "Ruth",
+			"bookTranslations": [
+				{
+					"id": "apd-rut",
+					"title": "راعوث"
+				},
+				{
+					"id": "ase-rut",
+					"title": "Ruth"
+				},
+				{
+					"id": "cmn-rut",
+					"title": "《路得記》"
+				},
+				{
+					"id": "eng-rut",
+					"title": "Ruth"
+				},
+				{
+					"id": "fas-rut",
+					"title": null
+				},
+				{
+					"id": "fil-rut",
+					"title": "Ruth"
+				},
+				{
+					"id": "fra-rut",
+					"title": "Ruth"
+				},
+				{
+					"id": "hin-rut",
+					"title": "रूत"
+				},
+				{
+					"id": "ind-rut",
+					"title": "Rut"
+				},
+				{
+					"id": "por-rut",
+					"title": "Rute"
+				},
+				{
+					"id": "rus-rut",
+					"title": "Руфь"
+				},
+				{
+					"id": "spa-rut",
+					"title": "Rut"
+				},
+				{
+					"id": "swh-rut",
+					"title": "Ruthu"
+				},
+				{
+					"id": "tpi-rut",
+					"title": "Rut"
+				},
+				{
+					"id": "urd-rut",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "1sa",
+			"lineup": 9,
+			"title": "1 Samuel",
+			"bookTranslations": [
+				{
+					"id": "apd-1sa",
+					"title": "صموئيل الأوّل"
+				},
+				{
+					"id": "ase-1sa",
+					"title": "1 Samuel"
+				},
+				{
+					"id": "cmn-1sa",
+					"title": "《撒母耳記上》"
+				},
+				{
+					"id": "eng-1sa",
+					"title": "1 Samuel"
+				},
+				{
+					"id": "fas-1sa",
+					"title": null
+				},
+				{
+					"id": "fil-1sa",
+					"title": "1 Samuel"
+				},
+				{
+					"id": "fra-1sa",
+					"title": "1 Samuel"
+				},
+				{
+					"id": "hin-1sa",
+					"title": "1 शमूएल"
+				},
+				{
+					"id": "ind-1sa",
+					"title": "1 Samuel"
+				},
+				{
+					"id": "por-1sa",
+					"title": "1 Samuel"
+				},
+				{
+					"id": "rus-1sa",
+					"title": "1 Царств"
+				},
+				{
+					"id": "spa-1sa",
+					"title": "1 Samuel"
+				},
+				{
+					"id": "swh-1sa",
+					"title": "1 Samweli"
+				},
+				{
+					"id": "tpi-1sa",
+					"title": "1 Samuel"
+				},
+				{
+					"id": "urd-1sa",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "2sa",
+			"lineup": 10,
+			"title": "2 Samuel",
+			"bookTranslations": [
+				{
+					"id": "apd-2sa",
+					"title": "صموئيل التاني"
+				},
+				{
+					"id": "ase-2sa",
+					"title": "2 Samuel"
+				},
+				{
+					"id": "cmn-2sa",
+					"title": "《撒母耳記下》"
+				},
+				{
+					"id": "eng-2sa",
+					"title": "2 Samuel"
+				},
+				{
+					"id": "fas-2sa",
+					"title": null
+				},
+				{
+					"id": "fil-2sa",
+					"title": "2 Samuel"
+				},
+				{
+					"id": "fra-2sa",
+					"title": "2 Samuel"
+				},
+				{
+					"id": "hin-2sa",
+					"title": "2 शमूएल"
+				},
+				{
+					"id": "ind-2sa",
+					"title": "2 Samuel"
+				},
+				{
+					"id": "por-2sa",
+					"title": "2 Samuel"
+				},
+				{
+					"id": "rus-2sa",
+					"title": "2 Царств"
+				},
+				{
+					"id": "spa-2sa",
+					"title": "2 Samuel"
+				},
+				{
+					"id": "swh-2sa",
+					"title": "2 Samweli"
+				},
+				{
+					"id": "tpi-2sa",
+					"title": "2 Samuel"
+				},
+				{
+					"id": "urd-2sa",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "1ki",
+			"lineup": 11,
+			"title": "1 Kings",
+			"bookTranslations": [
+				{
+					"id": "apd-1ki",
+					"title": "مُلوك الأوّل"
+				},
+				{
+					"id": "ase-1ki",
+					"title": "1 Kings"
+				},
+				{
+					"id": "cmn-1ki",
+					"title": "《列王記上》"
+				},
+				{
+					"id": "eng-1ki",
+					"title": "1 Kings"
+				},
+				{
+					"id": "fas-1ki",
+					"title": null
+				},
+				{
+					"id": "fil-1ki",
+					"title": "1 Mga Hari"
+				},
+				{
+					"id": "fra-1ki",
+					"title": "1 Rois"
+				},
+				{
+					"id": "hin-1ki",
+					"title": "1 राजा"
+				},
+				{
+					"id": "ind-1ki",
+					"title": "1 Raja-raja"
+				},
+				{
+					"id": "por-1ki",
+					"title": "1 Reis"
+				},
+				{
+					"id": "rus-1ki",
+					"title": "3 Царств"
+				},
+				{
+					"id": "spa-1ki",
+					"title": "1 Reyes"
+				},
+				{
+					"id": "swh-1ki",
+					"title": "1 Wafalme"
+				},
+				{
+					"id": "tpi-1ki",
+					"title": "1 King"
+				},
+				{
+					"id": "urd-1ki",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "2ki",
+			"lineup": 12,
+			"title": "2 Kings",
+			"bookTranslations": [
+				{
+					"id": "apd-2ki",
+					"title": "مُلوك التاني"
+				},
+				{
+					"id": "ase-2ki",
+					"title": "2 Kings"
+				},
+				{
+					"id": "cmn-2ki",
+					"title": "《列王記下》"
+				},
+				{
+					"id": "eng-2ki",
+					"title": "2 Kings"
+				},
+				{
+					"id": "fas-2ki",
+					"title": null
+				},
+				{
+					"id": "fil-2ki",
+					"title": "2 Mga Hari"
+				},
+				{
+					"id": "fra-2ki",
+					"title": "2 Rois"
+				},
+				{
+					"id": "hin-2ki",
+					"title": "2 राजा"
+				},
+				{
+					"id": "ind-2ki",
+					"title": "2 Raja-raja"
+				},
+				{
+					"id": "por-2ki",
+					"title": "2 Reis"
+				},
+				{
+					"id": "rus-2ki",
+					"title": "4 Царств"
+				},
+				{
+					"id": "spa-2ki",
+					"title": "2 Reyes"
+				},
+				{
+					"id": "swh-2ki",
+					"title": "2 Wafalme"
+				},
+				{
+					"id": "tpi-2ki",
+					"title": "2 King"
+				},
+				{
+					"id": "urd-2ki",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "1ch",
+			"lineup": 13,
+			"title": "1 Chronicles",
+			"bookTranslations": [
+				{
+					"id": "apd-1ch",
+					"title": "أخبار الأيّام الأوّل"
+				},
+				{
+					"id": "ase-1ch",
+					"title": "1 Chronicles"
+				},
+				{
+					"id": "cmn-1ch",
+					"title": "《歷代志上》"
+				},
+				{
+					"id": "eng-1ch",
+					"title": "1 Chronicles"
+				},
+				{
+					"id": "fas-1ch",
+					"title": null
+				},
+				{
+					"id": "fil-1ch",
+					"title": "1 Mga Cronica"
+				},
+				{
+					"id": "fra-1ch",
+					"title": "1 Chroniques"
+				},
+				{
+					"id": "hin-1ch",
+					"title": "1 इतिहास"
+				},
+				{
+					"id": "ind-1ch",
+					"title": "1 Tawarikh"
+				},
+				{
+					"id": "por-1ch",
+					"title": "1 Crônicas"
+				},
+				{
+					"id": "rus-1ch",
+					"title": "1 Паралипоменон"
+				},
+				{
+					"id": "spa-1ch",
+					"title": "1 Crónicas"
+				},
+				{
+					"id": "swh-1ch",
+					"title": "1 Mambo ya Nyakati"
+				},
+				{
+					"id": "tpi-1ch",
+					"title": "1 Stori"
+				},
+				{
+					"id": "urd-1ch",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "2ch",
+			"lineup": 14,
+			"title": "2 Chronicles",
+			"bookTranslations": [
+				{
+					"id": "apd-2ch",
+					"title": "اخبار الأيّام التاني"
+				},
+				{
+					"id": "ase-2ch",
+					"title": "2 Chronicles"
+				},
+				{
+					"id": "cmn-2ch",
+					"title": "《歷代志下》"
+				},
+				{
+					"id": "eng-2ch",
+					"title": "2 Chronicles"
+				},
+				{
+					"id": "fas-2ch",
+					"title": null
+				},
+				{
+					"id": "fil-2ch",
+					"title": "2 Mga Cronica"
+				},
+				{
+					"id": "fra-2ch",
+					"title": "2 Chroniques"
+				},
+				{
+					"id": "hin-2ch",
+					"title": "2 इतिहास"
+				},
+				{
+					"id": "ind-2ch",
+					"title": "2 Tawarikh"
+				},
+				{
+					"id": "por-2ch",
+					"title": "2 Crônicas"
+				},
+				{
+					"id": "rus-2ch",
+					"title": "2 Паралипоменон"
+				},
+				{
+					"id": "spa-2ch",
+					"title": "2 Crónicas"
+				},
+				{
+					"id": "swh-2ch",
+					"title": "2 Mambo ya Nyakati"
+				},
+				{
+					"id": "tpi-2ch",
+					"title": "2 Stori"
+				},
+				{
+					"id": "urd-2ch",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "ezr",
+			"lineup": 15,
+			"title": "Ezra",
+			"bookTranslations": [
+				{
+					"id": "apd-ezr",
+					"title": "عذرا"
+				},
+				{
+					"id": "ase-ezr",
+					"title": "Ezra"
+				},
+				{
+					"id": "cmn-ezr",
+					"title": "《以斯拉記》"
+				},
+				{
+					"id": "eng-ezr",
+					"title": "Ezra"
+				},
+				{
+					"id": "fas-ezr",
+					"title": null
+				},
+				{
+					"id": "fil-ezr",
+					"title": "Ezra"
+				},
+				{
+					"id": "fra-ezr",
+					"title": "Esdras"
+				},
+				{
+					"id": "hin-ezr",
+					"title": "एज्रा"
+				},
+				{
+					"id": "ind-ezr",
+					"title": "Ezra"
+				},
+				{
+					"id": "por-ezr",
+					"title": "Esdras"
+				},
+				{
+					"id": "rus-ezr",
+					"title": "Ездры"
+				},
+				{
+					"id": "spa-ezr",
+					"title": "Esdras"
+				},
+				{
+					"id": "swh-ezr",
+					"title": "Ezra"
+				},
+				{
+					"id": "tpi-ezr",
+					"title": "Esra"
+				},
+				{
+					"id": "urd-ezr",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "neh",
+			"lineup": 16,
+			"title": "Nehemiah",
+			"bookTranslations": [
+				{
+					"id": "apd-neh",
+					"title": "نحميا"
+				},
+				{
+					"id": "ase-neh",
+					"title": "Nehemiah"
+				},
+				{
+					"id": "cmn-neh",
+					"title": "《尼希米記》"
+				},
+				{
+					"id": "eng-neh",
+					"title": "Nehemiah"
+				},
+				{
+					"id": "fas-neh",
+					"title": null
+				},
+				{
+					"id": "fil-neh",
+					"title": "Nehemias"
+				},
+				{
+					"id": "fra-neh",
+					"title": "Néhémie"
+				},
+				{
+					"id": "hin-neh",
+					"title": "नहेमायाह"
+				},
+				{
+					"id": "ind-neh",
+					"title": "Nehemia"
+				},
+				{
+					"id": "por-neh",
+					"title": "Neemias"
+				},
+				{
+					"id": "rus-neh",
+					"title": "Неемии"
+				},
+				{
+					"id": "spa-neh",
+					"title": "Nehemías"
+				},
+				{
+					"id": "swh-neh",
+					"title": "Nehemia"
+				},
+				{
+					"id": "tpi-neh",
+					"title": "Nehemia"
+				},
+				{
+					"id": "urd-neh",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "est",
+			"lineup": 17,
+			"title": "Esther",
+			"bookTranslations": [
+				{
+					"id": "apd-est",
+					"title": "إستير"
+				},
+				{
+					"id": "ase-est",
+					"title": "Esther"
+				},
+				{
+					"id": "cmn-est",
+					"title": "《以斯帖記》"
+				},
+				{
+					"id": "eng-est",
+					"title": "Esther"
+				},
+				{
+					"id": "fas-est",
+					"title": null
+				},
+				{
+					"id": "fil-est",
+					"title": "Ester"
+				},
+				{
+					"id": "fra-est",
+					"title": "Esther"
+				},
+				{
+					"id": "hin-est",
+					"title": "एस्तेर"
+				},
+				{
+					"id": "ind-est",
+					"title": "Ester"
+				},
+				{
+					"id": "por-est",
+					"title": "Ester"
+				},
+				{
+					"id": "rus-est",
+					"title": "Есфирь"
+				},
+				{
+					"id": "spa-est",
+					"title": "Ester"
+				},
+				{
+					"id": "swh-est",
+					"title": "Esta"
+				},
+				{
+					"id": "tpi-est",
+					"title": "Esta"
+				},
+				{
+					"id": "urd-est",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "job",
+			"lineup": 18,
+			"title": "Job",
+			"bookTranslations": [
+				{
+					"id": "apd-job",
+					"title": "أيوب"
+				},
+				{
+					"id": "ase-job",
+					"title": "Job"
+				},
+				{
+					"id": "cmn-job",
+					"title": "《約伯記》"
+				},
+				{
+					"id": "eng-job",
+					"title": "Job"
+				},
+				{
+					"id": "fas-job",
+					"title": null
+				},
+				{
+					"id": "fil-job",
+					"title": "Job"
+				},
+				{
+					"id": "fra-job",
+					"title": "Job"
+				},
+				{
+					"id": "hin-job",
+					"title": "अय्यूब"
+				},
+				{
+					"id": "ind-job",
+					"title": "Ayub"
+				},
+				{
+					"id": "por-job",
+					"title": "Jó"
+				},
+				{
+					"id": "rus-job",
+					"title": "Иов"
+				},
+				{
+					"id": "spa-job",
+					"title": "Job"
+				},
+				{
+					"id": "swh-job",
+					"title": "Ayubu"
+				},
+				{
+					"id": "tpi-job",
+					"title": "Jop"
+				},
+				{
+					"id": "urd-job",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "psa",
+			"lineup": 19,
+			"title": "Psalms",
+			"bookTranslations": [
+				{
+					"id": "apd-psa",
+					"title": "مزامير"
+				},
+				{
+					"id": "ase-psa",
+					"title": "Psalms"
+				},
+				{
+					"id": "cmn-psa",
+					"title": "《詩篇》"
+				},
+				{
+					"id": "eng-psa",
+					"title": "Psalms"
+				},
+				{
+					"id": "fas-psa",
+					"title": null
+				},
+				{
+					"id": "fil-psa",
+					"title": "Mga Awit"
+				},
+				{
+					"id": "fra-psa",
+					"title": "Psaumes"
+				},
+				{
+					"id": "hin-psa",
+					"title": "भजनसंहिता"
+				},
+				{
+					"id": "ind-psa",
+					"title": "Mazmur"
+				},
+				{
+					"id": "por-psa",
+					"title": "Salmos"
+				},
+				{
+					"id": "rus-psa",
+					"title": "Псалмы"
+				},
+				{
+					"id": "spa-psa",
+					"title": "Salmos"
+				},
+				{
+					"id": "swh-psa",
+					"title": "Zaburi"
+				},
+				{
+					"id": "tpi-psa",
+					"title": "Buk Song"
+				},
+				{
+					"id": "urd-psa",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "pro",
+			"lineup": 20,
+			"title": "Proverbs",
+			"bookTranslations": [
+				{
+					"id": "apd-pro",
+					"title": "أمثال"
+				},
+				{
+					"id": "ase-pro",
+					"title": "Proverbs"
+				},
+				{
+					"id": "cmn-pro",
+					"title": "《箴言》"
+				},
+				{
+					"id": "eng-pro",
+					"title": "Proverbs"
+				},
+				{
+					"id": "fas-pro",
+					"title": null
+				},
+				{
+					"id": "fil-pro",
+					"title": "Mga Kawikaan"
+				},
+				{
+					"id": "fra-pro",
+					"title": "Proverbes"
+				},
+				{
+					"id": "hin-pro",
+					"title": "नीतिवचन"
+				},
+				{
+					"id": "ind-pro",
+					"title": "Amsal"
+				},
+				{
+					"id": "por-pro",
+					"title": "Provérbios"
+				},
+				{
+					"id": "rus-pro",
+					"title": "Притчи"
+				},
+				{
+					"id": "spa-pro",
+					"title": "Proverbios"
+				},
+				{
+					"id": "swh-pro",
+					"title": "Methali"
+				},
+				{
+					"id": "tpi-pro",
+					"title": "Gutpela Sindaun"
+				},
+				{
+					"id": "urd-pro",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "ecc",
+			"lineup": 21,
+			"title": "Ecclesiastes",
+			"bookTranslations": [
+				{
+					"id": "apd-ecc",
+					"title": "الجامعة"
+				},
+				{
+					"id": "ase-ecc",
+					"title": "Ecclesiastes"
+				},
+				{
+					"id": "cmn-ecc",
+					"title": "《傳道書》"
+				},
+				{
+					"id": "eng-ecc",
+					"title": "Ecclesiastes"
+				},
+				{
+					"id": "fas-ecc",
+					"title": null
+				},
+				{
+					"id": "fil-ecc",
+					"title": "Ang Mangangaral"
+				},
+				{
+					"id": "fra-ecc",
+					"title": "Ecclésiastes"
+				},
+				{
+					"id": "hin-ecc",
+					"title": "सभोपदेशक"
+				},
+				{
+					"id": "ind-ecc",
+					"title": "Pengkhotbah"
+				},
+				{
+					"id": "por-ecc",
+					"title": "Eclesiastes"
+				},
+				{
+					"id": "rus-ecc",
+					"title": "Екклесиаст"
+				},
+				{
+					"id": "spa-ecc",
+					"title": "Eclesiastés"
+				},
+				{
+					"id": "swh-ecc",
+					"title": "Mhubiri"
+				},
+				{
+					"id": "tpi-ecc",
+					"title": "Saveman"
+				},
+				{
+					"id": "urd-ecc",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "sng",
+			"lineup": 22,
+			"title": "Song of Solomon",
+			"bookTranslations": [
+				{
+					"id": "apd-sng",
+					"title": "نشيد الأنشاد"
+				},
+				{
+					"id": "ase-sng",
+					"title": "Song of Solomon"
+				},
+				{
+					"id": "cmn-sng",
+					"title": "《雅歌》"
+				},
+				{
+					"id": "eng-sng",
+					"title": "Song of Solomon"
+				},
+				{
+					"id": "fas-sng",
+					"title": null
+				},
+				{
+					"id": "fil-sng",
+					"title": "Ang Awit ni Solomon"
+				},
+				{
+					"id": "fra-sng",
+					"title": "Chant de Salomon"
+				},
+				{
+					"id": "hin-sng",
+					"title": "श्रेष्ठगीत"
+				},
+				{
+					"id": "ind-sng",
+					"title": "Kidung Agung"
+				},
+				{
+					"id": "por-sng",
+					"title": "Cântico de Salomão"
+				},
+				{
+					"id": "rus-sng",
+					"title": "Песнь песней Соломона"
+				},
+				{
+					"id": "spa-sng",
+					"title": "Cantar de los cantares"
+				},
+				{
+					"id": "swh-sng",
+					"title": "Wimbo wa Solomoni"
+				},
+				{
+					"id": "tpi-sng",
+					"title": "Solomon"
+				},
+				{
+					"id": "urd-sng",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "isa",
+			"lineup": 23,
+			"title": "Isaiah",
+			"bookTranslations": [
+				{
+					"id": "apd-isa",
+					"title": "إشعياء"
+				},
+				{
+					"id": "ase-isa",
+					"title": "Isaiah"
+				},
+				{
+					"id": "cmn-isa",
+					"title": "《以賽亞書》"
+				},
+				{
+					"id": "eng-isa",
+					"title": "Isaiah"
+				},
+				{
+					"id": "fas-isa",
+					"title": null
+				},
+				{
+					"id": "fil-isa",
+					"title": "Isaias"
+				},
+				{
+					"id": "fra-isa",
+					"title": "Esaïe"
+				},
+				{
+					"id": "hin-isa",
+					"title": "यशायाह"
+				},
+				{
+					"id": "ind-isa",
+					"title": "Yesaya"
+				},
+				{
+					"id": "por-isa",
+					"title": "Isaías"
+				},
+				{
+					"id": "rus-isa",
+					"title": "Исайи"
+				},
+				{
+					"id": "spa-isa",
+					"title": "Isaías"
+				},
+				{
+					"id": "swh-isa",
+					"title": "Isaya"
+				},
+				{
+					"id": "tpi-isa",
+					"title": "Aisaia"
+				},
+				{
+					"id": "urd-isa",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "jer",
+			"lineup": 24,
+			"title": "Jeremiah",
+			"bookTranslations": [
+				{
+					"id": "apd-jer",
+					"title": "أرميا"
+				},
+				{
+					"id": "ase-jer",
+					"title": "Jeremiah"
+				},
+				{
+					"id": "cmn-jer",
+					"title": "《耶利米書》"
+				},
+				{
+					"id": "eng-jer",
+					"title": "Jeremiah"
+				},
+				{
+					"id": "fas-jer",
+					"title": null
+				},
+				{
+					"id": "fil-jer",
+					"title": "Jeremias"
+				},
+				{
+					"id": "fra-jer",
+					"title": "Jérémie"
+				},
+				{
+					"id": "hin-jer",
+					"title": "यिर्मयाह"
+				},
+				{
+					"id": "ind-jer",
+					"title": "Yeremia"
+				},
+				{
+					"id": "por-jer",
+					"title": "Jeremias"
+				},
+				{
+					"id": "rus-jer",
+					"title": "Иеремии"
+				},
+				{
+					"id": "spa-jer",
+					"title": "Jeremías"
+				},
+				{
+					"id": "swh-jer",
+					"title": "Yeremia"
+				},
+				{
+					"id": "tpi-jer",
+					"title": "Jeremaia"
+				},
+				{
+					"id": "urd-jer",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "lam",
+			"lineup": 25,
+			"title": "Lamentations",
+			"bookTranslations": [
+				{
+					"id": "apd-lam",
+					"title": "مراثي أرميا"
+				},
+				{
+					"id": "ase-lam",
+					"title": "Lamentations"
+				},
+				{
+					"id": "cmn-lam",
+					"title": "《耶粒米哀歌》"
+				},
+				{
+					"id": "eng-lam",
+					"title": "Lamentations"
+				},
+				{
+					"id": "fas-lam",
+					"title": null
+				},
+				{
+					"id": "fil-lam",
+					"title": "Mga Panaghoy"
+				},
+				{
+					"id": "fra-lam",
+					"title": "Lamentations"
+				},
+				{
+					"id": "hin-lam",
+					"title": "विलापगीत"
+				},
+				{
+					"id": "ind-lam",
+					"title": "Ratapan"
+				},
+				{
+					"id": "por-lam",
+					"title": "Lamentações"
+				},
+				{
+					"id": "rus-lam",
+					"title": "Плач Иеремии"
+				},
+				{
+					"id": "spa-lam",
+					"title": "Lamentaciones"
+				},
+				{
+					"id": "swh-lam",
+					"title": "Maombolezo"
+				},
+				{
+					"id": "tpi-lam",
+					"title": "Krai"
+				},
+				{
+					"id": "urd-lam",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "ezk",
+			"lineup": 26,
+			"title": "Ezekiel",
+			"bookTranslations": [
+				{
+					"id": "apd-ezk",
+					"title": "حزقيال"
+				},
+				{
+					"id": "ase-ezk",
+					"title": "Ezekiel"
+				},
+				{
+					"id": "cmn-ezk",
+					"title": "《以西結書》"
+				},
+				{
+					"id": "eng-ezk",
+					"title": "Ezekiel"
+				},
+				{
+					"id": "fas-ezk",
+					"title": null
+				},
+				{
+					"id": "fil-ezk",
+					"title": "Ezekiel"
+				},
+				{
+					"id": "fra-ezk",
+					"title": "Ézéchiel"
+				},
+				{
+					"id": "hin-ezk",
+					"title": "यहेजकेल"
+				},
+				{
+					"id": "ind-ezk",
+					"title": "Yehezkiel"
+				},
+				{
+					"id": "por-ezk",
+					"title": "Ezequiel"
+				},
+				{
+					"id": "rus-ezk",
+					"title": "Иезекиля"
+				},
+				{
+					"id": "spa-ezk",
+					"title": "Ezequiel"
+				},
+				{
+					"id": "swh-ezk",
+					"title": "Ezekieli"
+				},
+				{
+					"id": "tpi-ezk",
+					"title": "Esekiel"
+				},
+				{
+					"id": "urd-ezk",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "dan",
+			"lineup": 27,
+			"title": "Daniel",
+			"bookTranslations": [
+				{
+					"id": "apd-dan",
+					"title": "دانيال"
+				},
+				{
+					"id": "ase-dan",
+					"title": "Daniel"
+				},
+				{
+					"id": "cmn-dan",
+					"title": "《但以理書》"
+				},
+				{
+					"id": "eng-dan",
+					"title": "Daniel"
+				},
+				{
+					"id": "fas-dan",
+					"title": null
+				},
+				{
+					"id": "fil-dan",
+					"title": "Daniel"
+				},
+				{
+					"id": "fra-dan",
+					"title": "Daniel"
+				},
+				{
+					"id": "hin-dan",
+					"title": "दानिय्येल"
+				},
+				{
+					"id": "ind-dan",
+					"title": "Daniel"
+				},
+				{
+					"id": "por-dan",
+					"title": "Daniel"
+				},
+				{
+					"id": "rus-dan",
+					"title": "Даниила"
+				},
+				{
+					"id": "spa-dan",
+					"title": "Daniel"
+				},
+				{
+					"id": "swh-dan",
+					"title": "Danieli"
+				},
+				{
+					"id": "tpi-dan",
+					"title": "Daniel"
+				},
+				{
+					"id": "urd-dan",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "hos",
+			"lineup": 28,
+			"title": "Hosea",
+			"bookTranslations": [
+				{
+					"id": "apd-hos",
+					"title": "هُوشع"
+				},
+				{
+					"id": "ase-hos",
+					"title": "Hosea"
+				},
+				{
+					"id": "cmn-hos",
+					"title": "《何西阿書》"
+				},
+				{
+					"id": "eng-hos",
+					"title": "Hosea"
+				},
+				{
+					"id": "fas-hos",
+					"title": null
+				},
+				{
+					"id": "fil-hos",
+					"title": "Hosea"
+				},
+				{
+					"id": "fra-hos",
+					"title": "Osée"
+				},
+				{
+					"id": "hin-hos",
+					"title": "होशे"
+				},
+				{
+					"id": "ind-hos",
+					"title": "Hosea"
+				},
+				{
+					"id": "por-hos",
+					"title": "Oseias"
+				},
+				{
+					"id": "rus-hos",
+					"title": "Осии"
+				},
+				{
+					"id": "spa-hos",
+					"title": "Oseas"
+				},
+				{
+					"id": "swh-hos",
+					"title": "Hosea"
+				},
+				{
+					"id": "tpi-hos",
+					"title": "Hosea"
+				},
+				{
+					"id": "urd-hos",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "jol",
+			"lineup": 29,
+			"title": "Joel",
+			"bookTranslations": [
+				{
+					"id": "apd-jol",
+					"title": "يوئيل"
+				},
+				{
+					"id": "ase-jol",
+					"title": "Joel"
+				},
+				{
+					"id": "cmn-jol",
+					"title": "《約珥書》"
+				},
+				{
+					"id": "eng-jol",
+					"title": "Joel"
+				},
+				{
+					"id": "fas-jol",
+					"title": null
+				},
+				{
+					"id": "fil-jol",
+					"title": "Joel"
+				},
+				{
+					"id": "fra-jol",
+					"title": "Joël"
+				},
+				{
+					"id": "hin-jol",
+					"title": "योएल"
+				},
+				{
+					"id": "ind-jol",
+					"title": "Yoel"
+				},
+				{
+					"id": "por-jol",
+					"title": "Joel"
+				},
+				{
+					"id": "rus-jol",
+					"title": "Иоиля"
+				},
+				{
+					"id": "spa-jol",
+					"title": "Joel"
+				},
+				{
+					"id": "swh-jol",
+					"title": "Yoeli"
+				},
+				{
+					"id": "tpi-jol",
+					"title": "Joel"
+				},
+				{
+					"id": "urd-jol",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "amo",
+			"lineup": 30,
+			"title": "Amos",
+			"bookTranslations": [
+				{
+					"id": "apd-amo",
+					"title": "عاموس"
+				},
+				{
+					"id": "ase-amo",
+					"title": "Amos"
+				},
+				{
+					"id": "cmn-amo",
+					"title": "《阿摩司書》"
+				},
+				{
+					"id": "eng-amo",
+					"title": "Amos"
+				},
+				{
+					"id": "fas-amo",
+					"title": null
+				},
+				{
+					"id": "fil-amo",
+					"title": "Amos"
+				},
+				{
+					"id": "fra-amo",
+					"title": "Amos"
+				},
+				{
+					"id": "hin-amo",
+					"title": "आमोस"
+				},
+				{
+					"id": "ind-amo",
+					"title": "Amos"
+				},
+				{
+					"id": "por-amo",
+					"title": "Amós"
+				},
+				{
+					"id": "rus-amo",
+					"title": "Амоса"
+				},
+				{
+					"id": "spa-amo",
+					"title": "Amós"
+				},
+				{
+					"id": "swh-amo",
+					"title": "Amosi"
+				},
+				{
+					"id": "tpi-amo",
+					"title": "Amos"
+				},
+				{
+					"id": "urd-amo",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "oba",
+			"lineup": 31,
+			"title": "Obadiah",
+			"bookTranslations": [
+				{
+					"id": "apd-oba",
+					"title": "عُوبديا"
+				},
+				{
+					"id": "ase-oba",
+					"title": "Obadiah"
+				},
+				{
+					"id": "cmn-oba",
+					"title": "《俄巴底亞書》"
+				},
+				{
+					"id": "eng-oba",
+					"title": "Obadiah"
+				},
+				{
+					"id": "fas-oba",
+					"title": null
+				},
+				{
+					"id": "fil-oba",
+					"title": "Obadias"
+				},
+				{
+					"id": "fra-oba",
+					"title": "Obadiah"
+				},
+				{
+					"id": "hin-oba",
+					"title": "ओबद्दाह"
+				},
+				{
+					"id": "ind-oba",
+					"title": "Obaja"
+				},
+				{
+					"id": "por-oba",
+					"title": "Obadias"
+				},
+				{
+					"id": "rus-oba",
+					"title": "Авдия"
+				},
+				{
+					"id": "spa-oba",
+					"title": "Abdías"
+				},
+				{
+					"id": "swh-oba",
+					"title": "Obadia"
+				},
+				{
+					"id": "tpi-oba",
+					"title": "Obadia"
+				},
+				{
+					"id": "urd-oba",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "jon",
+			"lineup": 32,
+			"title": "Jonah",
+			"bookTranslations": [
+				{
+					"id": "apd-jon",
+					"title": "يونان"
+				},
+				{
+					"id": "ase-jon",
+					"title": "Jonah"
+				},
+				{
+					"id": "cmn-jon",
+					"title": "《約拿書》"
+				},
+				{
+					"id": "eng-jon",
+					"title": "Jonah"
+				},
+				{
+					"id": "fas-jon",
+					"title": null
+				},
+				{
+					"id": "fil-jon",
+					"title": "Jonas"
+				},
+				{
+					"id": "fra-jon",
+					"title": "Jonas"
+				},
+				{
+					"id": "hin-jon",
+					"title": "योना"
+				},
+				{
+					"id": "ind-jon",
+					"title": "Yunus"
+				},
+				{
+					"id": "por-jon",
+					"title": "Jonas"
+				},
+				{
+					"id": "rus-jon",
+					"title": "Ионы"
+				},
+				{
+					"id": "spa-jon",
+					"title": "Jonás"
+				},
+				{
+					"id": "swh-jon",
+					"title": "Yona"
+				},
+				{
+					"id": "tpi-jon",
+					"title": "Jona"
+				},
+				{
+					"id": "urd-jon",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "mic",
+			"lineup": 33,
+			"title": "Micah",
+			"bookTranslations": [
+				{
+					"id": "apd-mic",
+					"title": "ميخا"
+				},
+				{
+					"id": "ase-mic",
+					"title": "Micah"
+				},
+				{
+					"id": "cmn-mic",
+					"title": "《彌迦書》"
+				},
+				{
+					"id": "eng-mic",
+					"title": "Micah"
+				},
+				{
+					"id": "fas-mic",
+					"title": null
+				},
+				{
+					"id": "fil-mic",
+					"title": "Mikas"
+				},
+				{
+					"id": "fra-mic",
+					"title": "Michée"
+				},
+				{
+					"id": "hin-mic",
+					"title": "मीका"
+				},
+				{
+					"id": "ind-mic",
+					"title": "Mikha"
+				},
+				{
+					"id": "por-mic",
+					"title": "Miqueias"
+				},
+				{
+					"id": "rus-mic",
+					"title": "Михея"
+				},
+				{
+					"id": "spa-mic",
+					"title": "Miqueas"
+				},
+				{
+					"id": "swh-mic",
+					"title": "Mika"
+				},
+				{
+					"id": "tpi-mic",
+					"title": "Maika"
+				},
+				{
+					"id": "urd-mic",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "nam",
+			"lineup": 34,
+			"title": "Nahum",
+			"bookTranslations": [
+				{
+					"id": "apd-nam",
+					"title": "ناحوم"
+				},
+				{
+					"id": "ase-nam",
+					"title": "Nahum"
+				},
+				{
+					"id": "cmn-nam",
+					"title": "《那鴻書》"
+				},
+				{
+					"id": "eng-nam",
+					"title": "Nahum"
+				},
+				{
+					"id": "fas-nam",
+					"title": null
+				},
+				{
+					"id": "fil-nam",
+					"title": "Nahum"
+				},
+				{
+					"id": "fra-nam",
+					"title": "Nahum"
+				},
+				{
+					"id": "hin-nam",
+					"title": "नहूम"
+				},
+				{
+					"id": "ind-nam",
+					"title": "Nahum"
+				},
+				{
+					"id": "por-nam",
+					"title": "Naum"
+				},
+				{
+					"id": "rus-nam",
+					"title": "Наума"
+				},
+				{
+					"id": "spa-nam",
+					"title": "Nahúm"
+				},
+				{
+					"id": "swh-nam",
+					"title": "Nahumu"
+				},
+				{
+					"id": "tpi-nam",
+					"title": "Nahum"
+				},
+				{
+					"id": "urd-nam",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "hab",
+			"lineup": 35,
+			"title": "Habakkuk",
+			"bookTranslations": [
+				{
+					"id": "apd-hab",
+					"title": "حبقوق"
+				},
+				{
+					"id": "ase-hab",
+					"title": "Habakkuk"
+				},
+				{
+					"id": "cmn-hab",
+					"title": "《哈巴谷書》"
+				},
+				{
+					"id": "eng-hab",
+					"title": "Habakkuk"
+				},
+				{
+					"id": "fas-hab",
+					"title": null
+				},
+				{
+					"id": "fil-hab",
+					"title": "Habakuk"
+				},
+				{
+					"id": "fra-hab",
+					"title": "Habacuc"
+				},
+				{
+					"id": "hin-hab",
+					"title": "हबक्कूक"
+				},
+				{
+					"id": "ind-hab",
+					"title": "Habakuk"
+				},
+				{
+					"id": "por-hab",
+					"title": "Habacuque"
+				},
+				{
+					"id": "rus-hab",
+					"title": "Аввакума"
+				},
+				{
+					"id": "spa-hab",
+					"title": "Habacuc"
+				},
+				{
+					"id": "swh-hab",
+					"title": "Habakuki"
+				},
+				{
+					"id": "tpi-hab",
+					"title": "Habakuk"
+				},
+				{
+					"id": "urd-hab",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "zep",
+			"lineup": 36,
+			"title": "Zephaniah",
+			"bookTranslations": [
+				{
+					"id": "apd-zep",
+					"title": "صفنيا"
+				},
+				{
+					"id": "ase-zep",
+					"title": "Zephaniah"
+				},
+				{
+					"id": "cmn-zep",
+					"title": "《西番雅書》"
+				},
+				{
+					"id": "eng-zep",
+					"title": "Zephaniah"
+				},
+				{
+					"id": "fas-zep",
+					"title": null
+				},
+				{
+					"id": "fil-zep",
+					"title": "Zefanias"
+				},
+				{
+					"id": "fra-zep",
+					"title": "Sophonie"
+				},
+				{
+					"id": "hin-zep",
+					"title": "सपन्याह"
+				},
+				{
+					"id": "ind-zep",
+					"title": "Zefanya"
+				},
+				{
+					"id": "por-zep",
+					"title": "Sofonias"
+				},
+				{
+					"id": "rus-zep",
+					"title": "Софонии"
+				},
+				{
+					"id": "spa-zep",
+					"title": "Sofonías"
+				},
+				{
+					"id": "swh-zep",
+					"title": "Sefania"
+				},
+				{
+					"id": "tpi-zep",
+					"title": "Sefanaia"
+				},
+				{
+					"id": "urd-zep",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "hag",
+			"lineup": 37,
+			"title": "Haggai",
+			"bookTranslations": [
+				{
+					"id": "apd-hag",
+					"title": "حجِّي"
+				},
+				{
+					"id": "ase-hag",
+					"title": "Haggai"
+				},
+				{
+					"id": "cmn-hag",
+					"title": "《哈該書》"
+				},
+				{
+					"id": "eng-hag",
+					"title": "Haggai"
+				},
+				{
+					"id": "fas-hag",
+					"title": null
+				},
+				{
+					"id": "fil-hag",
+					"title": "Hagai"
+				},
+				{
+					"id": "fra-hag",
+					"title": "Aggée"
+				},
+				{
+					"id": "hin-hag",
+					"title": "हाग्गै"
+				},
+				{
+					"id": "ind-hag",
+					"title": "Hagai"
+				},
+				{
+					"id": "por-hag",
+					"title": "Ageu"
+				},
+				{
+					"id": "rus-hag",
+					"title": "Аггея"
+				},
+				{
+					"id": "spa-hag",
+					"title": "Hageo"
+				},
+				{
+					"id": "swh-hag",
+					"title": "Hagai"
+				},
+				{
+					"id": "tpi-hag",
+					"title": "Hagai"
+				},
+				{
+					"id": "urd-hag",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "zec",
+			"lineup": 38,
+			"title": "Zechariah",
+			"bookTranslations": [
+				{
+					"id": "apd-zec",
+					"title": "زكريا"
+				},
+				{
+					"id": "ase-zec",
+					"title": "Zechariah"
+				},
+				{
+					"id": "cmn-zec",
+					"title": "《撒迦利亞書》"
+				},
+				{
+					"id": "eng-zec",
+					"title": "Zechariah"
+				},
+				{
+					"id": "fas-zec",
+					"title": null
+				},
+				{
+					"id": "fil-zec",
+					"title": "Zacarias"
+				},
+				{
+					"id": "fra-zec",
+					"title": "Zacharie"
+				},
+				{
+					"id": "hin-zec",
+					"title": "जकर्याह"
+				},
+				{
+					"id": "ind-zec",
+					"title": "Zakharia"
+				},
+				{
+					"id": "por-zec",
+					"title": "Zacarias"
+				},
+				{
+					"id": "rus-zec",
+					"title": "Захарии"
+				},
+				{
+					"id": "spa-zec",
+					"title": "Zacarías"
+				},
+				{
+					"id": "swh-zec",
+					"title": "Zekaria"
+				},
+				{
+					"id": "tpi-zec",
+					"title": "Sekaraia"
+				},
+				{
+					"id": "urd-zec",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "mal",
+			"lineup": 39,
+			"title": "Malachi",
+			"bookTranslations": [
+				{
+					"id": "apd-mal",
+					"title": "ملاخي"
+				},
+				{
+					"id": "ase-mal",
+					"title": "Malachi"
+				},
+				{
+					"id": "cmn-mal",
+					"title": "《瑪拉基書》"
+				},
+				{
+					"id": "eng-mal",
+					"title": "Malachi"
+				},
+				{
+					"id": "fas-mal",
+					"title": null
+				},
+				{
+					"id": "fil-mal",
+					"title": "Malakias"
+				},
+				{
+					"id": "fra-mal",
+					"title": "Malachi"
+				},
+				{
+					"id": "hin-mal",
+					"title": "मलाकी"
+				},
+				{
+					"id": "ind-mal",
+					"title": "Maleakhi"
+				},
+				{
+					"id": "por-mal",
+					"title": "Malaquias"
+				},
+				{
+					"id": "rus-mal",
+					"title": "Малахии"
+				},
+				{
+					"id": "spa-mal",
+					"title": "Malaquías"
+				},
+				{
+					"id": "swh-mal",
+					"title": "Malaki"
+				},
+				{
+					"id": "tpi-mal",
+					"title": "Malakai"
+				},
+				{
+					"id": "urd-mal",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "mat",
+			"lineup": 40,
+			"title": "Matthew",
+			"bookTranslations": [
+				{
+					"id": "apd-mat",
+					"title": "متَّى"
+				},
+				{
+					"id": "ase-mat",
+					"title": "Matthew"
+				},
+				{
+					"id": "cmn-mat",
+					"title": "《馬太福音》"
+				},
+				{
+					"id": "eng-mat",
+					"title": "Matthew"
+				},
+				{
+					"id": "fas-mat",
+					"title": null
+				},
+				{
+					"id": "fil-mat",
+					"title": "Mateo"
+				},
+				{
+					"id": "fra-mat",
+					"title": "Matthieu"
+				},
+				{
+					"id": "hin-mat",
+					"title": "मत्ती"
+				},
+				{
+					"id": "ind-mat",
+					"title": "Matius"
+				},
+				{
+					"id": "por-mat",
+					"title": "Mateus"
+				},
+				{
+					"id": "rus-mat",
+					"title": "Матфея"
+				},
+				{
+					"id": "spa-mat",
+					"title": "Mateo"
+				},
+				{
+					"id": "swh-mat",
+					"title": "Mathayo"
+				},
+				{
+					"id": "tpi-mat",
+					"title": "Matyu"
+				},
+				{
+					"id": "urd-mat",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "mrk",
+			"lineup": 41,
+			"title": "Mark",
+			"bookTranslations": [
+				{
+					"id": "apd-mrk",
+					"title": "مُرْقُس"
+				},
+				{
+					"id": "ase-mrk",
+					"title": "Mark"
+				},
+				{
+					"id": "cmn-mrk",
+					"title": "《馬可福音》"
+				},
+				{
+					"id": "eng-mrk",
+					"title": "Mark"
+				},
+				{
+					"id": "fas-mrk",
+					"title": null
+				},
+				{
+					"id": "fil-mrk",
+					"title": "Marcos"
+				},
+				{
+					"id": "fra-mrk",
+					"title": "Marc"
+				},
+				{
+					"id": "hin-mrk",
+					"title": "मरकुस"
+				},
+				{
+					"id": "ind-mrk",
+					"title": "Markus"
+				},
+				{
+					"id": "por-mrk",
+					"title": "Marcos"
+				},
+				{
+					"id": "rus-mrk",
+					"title": "Марка"
+				},
+				{
+					"id": "spa-mrk",
+					"title": "Marcos"
+				},
+				{
+					"id": "swh-mrk",
+					"title": "Marko"
+				},
+				{
+					"id": "tpi-mrk",
+					"title": "Mak"
+				},
+				{
+					"id": "urd-mrk",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "luk",
+			"lineup": 42,
+			"title": "Luke",
+			"bookTranslations": [
+				{
+					"id": "apd-luk",
+					"title": "لُوقا"
+				},
+				{
+					"id": "ase-luk",
+					"title": "Luke"
+				},
+				{
+					"id": "cmn-luk",
+					"title": "《路加福音》"
+				},
+				{
+					"id": "eng-luk",
+					"title": "Luke"
+				},
+				{
+					"id": "fas-luk",
+					"title": null
+				},
+				{
+					"id": "fil-luk",
+					"title": "Lucas"
+				},
+				{
+					"id": "fra-luk",
+					"title": "Luc"
+				},
+				{
+					"id": "hin-luk",
+					"title": "लूका"
+				},
+				{
+					"id": "ind-luk",
+					"title": "Lukas"
+				},
+				{
+					"id": "por-luk",
+					"title": "Lucas"
+				},
+				{
+					"id": "rus-luk",
+					"title": "Луки"
+				},
+				{
+					"id": "spa-luk",
+					"title": "Lucas"
+				},
+				{
+					"id": "swh-luk",
+					"title": "Luka"
+				},
+				{
+					"id": "tpi-luk",
+					"title": "Luk"
+				},
+				{
+					"id": "urd-luk",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "jhn",
+			"lineup": 43,
+			"title": "John",
+			"bookTranslations": [
+				{
+					"id": "apd-jhn",
+					"title": "يوحنا"
+				},
+				{
+					"id": "ase-jhn",
+					"title": "John"
+				},
+				{
+					"id": "cmn-jhn",
+					"title": "《約翰福音》"
+				},
+				{
+					"id": "eng-jhn",
+					"title": "John"
+				},
+				{
+					"id": "fas-jhn",
+					"title": null
+				},
+				{
+					"id": "fil-jhn",
+					"title": "Juan"
+				},
+				{
+					"id": "fra-jhn",
+					"title": "Jean"
+				},
+				{
+					"id": "hin-jhn",
+					"title": "यूहन्ना"
+				},
+				{
+					"id": "ind-jhn",
+					"title": "Yohanes"
+				},
+				{
+					"id": "por-jhn",
+					"title": "João"
+				},
+				{
+					"id": "rus-jhn",
+					"title": "Иоанна"
+				},
+				{
+					"id": "spa-jhn",
+					"title": "Juan"
+				},
+				{
+					"id": "swh-jhn",
+					"title": "Yohana"
+				},
+				{
+					"id": "tpi-jhn",
+					"title": "Jon"
+				},
+				{
+					"id": "urd-jhn",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "act",
+			"lineup": 44,
+			"title": "Acts",
+			"bookTranslations": [
+				{
+					"id": "apd-act",
+					"title": "أعمال الرسل"
+				},
+				{
+					"id": "ase-act",
+					"title": "Acts"
+				},
+				{
+					"id": "cmn-act",
+					"title": "《使徒行傳》"
+				},
+				{
+					"id": "eng-act",
+					"title": "Acts"
+				},
+				{
+					"id": "fas-act",
+					"title": null
+				},
+				{
+					"id": "fil-act",
+					"title": "Mga Gawa"
+				},
+				{
+					"id": "fra-act",
+					"title": "Actes"
+				},
+				{
+					"id": "hin-act",
+					"title": "प्रेरितों के काम"
+				},
+				{
+					"id": "ind-act",
+					"title": "Kisah Para Rasul"
+				},
+				{
+					"id": "por-act",
+					"title": "Atos"
+				},
+				{
+					"id": "rus-act",
+					"title": "Деяния"
+				},
+				{
+					"id": "spa-act",
+					"title": "Hechos"
+				},
+				{
+					"id": "swh-act",
+					"title": "Matendo"
+				},
+				{
+					"id": "tpi-act",
+					"title": "Aposel"
+				},
+				{
+					"id": "urd-act",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "rom",
+			"lineup": 45,
+			"title": "Romans",
+			"bookTranslations": [
+				{
+					"id": "apd-rom",
+					"title": "روميّة"
+				},
+				{
+					"id": "ase-rom",
+					"title": "Romans"
+				},
+				{
+					"id": "cmn-rom",
+					"title": "《羅馬書》"
+				},
+				{
+					"id": "eng-rom",
+					"title": "Romans"
+				},
+				{
+					"id": "fas-rom",
+					"title": null
+				},
+				{
+					"id": "fil-rom",
+					"title": "Mga Taga-Roma"
+				},
+				{
+					"id": "fra-rom",
+					"title": "Romains"
+				},
+				{
+					"id": "hin-rom",
+					"title": "रोमियो"
+				},
+				{
+					"id": "ind-rom",
+					"title": "Roma"
+				},
+				{
+					"id": "por-rom",
+					"title": "Romanos"
+				},
+				{
+					"id": "rus-rom",
+					"title": "Римлянам"
+				},
+				{
+					"id": "spa-rom",
+					"title": "Romanos"
+				},
+				{
+					"id": "swh-rom",
+					"title": "Warumi"
+				},
+				{
+					"id": "tpi-rom",
+					"title": "Rom"
+				},
+				{
+					"id": "urd-rom",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "1co",
+			"lineup": 46,
+			"title": "1 Corinthians",
+			"bookTranslations": [
+				{
+					"id": "apd-1co",
+					"title": "كورنثوس الأولى"
+				},
+				{
+					"id": "ase-1co",
+					"title": "1 Corinthians"
+				},
+				{
+					"id": "cmn-1co",
+					"title": "《哥林多前書》"
+				},
+				{
+					"id": "eng-1co",
+					"title": "1 Corinthians"
+				},
+				{
+					"id": "fas-1co",
+					"title": null
+				},
+				{
+					"id": "fil-1co",
+					"title": "1 Mga Taga-Corinto"
+				},
+				{
+					"id": "fra-1co",
+					"title": "1 Corinthiens"
+				},
+				{
+					"id": "hin-1co",
+					"title": "1 कुरिन्थियों"
+				},
+				{
+					"id": "ind-1co",
+					"title": "1 Korintus"
+				},
+				{
+					"id": "por-1co",
+					"title": "1 Coríntios"
+				},
+				{
+					"id": "rus-1co",
+					"title": "1 Коринфянам"
+				},
+				{
+					"id": "spa-1co",
+					"title": "1 Corintios"
+				},
+				{
+					"id": "swh-1co",
+					"title": "1 Wakorintho"
+				},
+				{
+					"id": "tpi-1co",
+					"title": "1 Korin"
+				},
+				{
+					"id": "urd-1co",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "2co",
+			"lineup": 47,
+			"title": "2 Corinthians",
+			"bookTranslations": [
+				{
+					"id": "apd-2co",
+					"title": "كورنثوس التانية"
+				},
+				{
+					"id": "ase-2co",
+					"title": "2 Corinthians"
+				},
+				{
+					"id": "cmn-2co",
+					"title": "《哥林多後書》"
+				},
+				{
+					"id": "eng-2co",
+					"title": "2 Corinthians"
+				},
+				{
+					"id": "fas-2co",
+					"title": null
+				},
+				{
+					"id": "fil-2co",
+					"title": "2Mga Taga-Corinto"
+				},
+				{
+					"id": "fra-2co",
+					"title": "2 Corinthiens"
+				},
+				{
+					"id": "hin-2co",
+					"title": "2 कुरिन्थियों"
+				},
+				{
+					"id": "ind-2co",
+					"title": "2 Korintus"
+				},
+				{
+					"id": "por-2co",
+					"title": "2 Coríntios"
+				},
+				{
+					"id": "rus-2co",
+					"title": "2 Коринфянам"
+				},
+				{
+					"id": "spa-2co",
+					"title": "2 Corintios"
+				},
+				{
+					"id": "swh-2co",
+					"title": "2 Wakorintho"
+				},
+				{
+					"id": "tpi-2co",
+					"title": "2 Korin"
+				},
+				{
+					"id": "urd-2co",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "gal",
+			"lineup": 48,
+			"title": "Galatians",
+			"bookTranslations": [
+				{
+					"id": "apd-gal",
+					"title": "غلاطية"
+				},
+				{
+					"id": "ase-gal",
+					"title": "Galatians"
+				},
+				{
+					"id": "cmn-gal",
+					"title": "《加拉太書》"
+				},
+				{
+					"id": "eng-gal",
+					"title": "Galatians"
+				},
+				{
+					"id": "fas-gal",
+					"title": null
+				},
+				{
+					"id": "fil-gal",
+					"title": "Mga Taga-Galacia"
+				},
+				{
+					"id": "fra-gal",
+					"title": "Galates"
+				},
+				{
+					"id": "hin-gal",
+					"title": "गलातियों"
+				},
+				{
+					"id": "ind-gal",
+					"title": "Galatia"
+				},
+				{
+					"id": "por-gal",
+					"title": "Gálatas"
+				},
+				{
+					"id": "rus-gal",
+					"title": "Галатам"
+				},
+				{
+					"id": "spa-gal",
+					"title": "Gálatas"
+				},
+				{
+					"id": "swh-gal",
+					"title": "Wagalatia"
+				},
+				{
+					"id": "tpi-gal",
+					"title": "Galesia"
+				},
+				{
+					"id": "urd-gal",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "eph",
+			"lineup": 49,
+			"title": "Ephesians",
+			"bookTranslations": [
+				{
+					"id": "apd-eph",
+					"title": "أفسس"
+				},
+				{
+					"id": "ase-eph",
+					"title": "Ephesians"
+				},
+				{
+					"id": "cmn-eph",
+					"title": "《以弗所書》"
+				},
+				{
+					"id": "eng-eph",
+					"title": "Ephesians"
+				},
+				{
+					"id": "fas-eph",
+					"title": null
+				},
+				{
+					"id": "fil-eph",
+					"title": "Mga Taga-Efeso"
+				},
+				{
+					"id": "fra-eph",
+					"title": "Éphésiens"
+				},
+				{
+					"id": "hin-eph",
+					"title": "इफिसियों"
+				},
+				{
+					"id": "ind-eph",
+					"title": "Efesus"
+				},
+				{
+					"id": "por-eph",
+					"title": "Efésios"
+				},
+				{
+					"id": "rus-eph",
+					"title": "Ефесянам"
+				},
+				{
+					"id": "spa-eph",
+					"title": "Efesios"
+				},
+				{
+					"id": "swh-eph",
+					"title": "Waefeso"
+				},
+				{
+					"id": "tpi-eph",
+					"title": "Efesus"
+				},
+				{
+					"id": "urd-eph",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "php",
+			"lineup": 50,
+			"title": "Philippians",
+			"bookTranslations": [
+				{
+					"id": "apd-php",
+					"title": "فيليبي"
+				},
+				{
+					"id": "ase-php",
+					"title": "Philippians"
+				},
+				{
+					"id": "cmn-php",
+					"title": "《腓利比書》"
+				},
+				{
+					"id": "eng-php",
+					"title": "Philippians"
+				},
+				{
+					"id": "fas-php",
+					"title": null
+				},
+				{
+					"id": "fil-php",
+					"title": "Mga Taga-Filipos"
+				},
+				{
+					"id": "fra-php",
+					"title": "Philippiens"
+				},
+				{
+					"id": "hin-php",
+					"title": "फिलिप्पियों"
+				},
+				{
+					"id": "ind-php",
+					"title": "Filipi"
+				},
+				{
+					"id": "por-php",
+					"title": "Filipenses"
+				},
+				{
+					"id": "rus-php",
+					"title": "Филиппийцам"
+				},
+				{
+					"id": "spa-php",
+					"title": "Filipenses"
+				},
+				{
+					"id": "swh-php",
+					"title": "Wafilipi"
+				},
+				{
+					"id": "tpi-php",
+					"title": "Filipai"
+				},
+				{
+					"id": "urd-php",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "col",
+			"lineup": 51,
+			"title": "Colossians",
+			"bookTranslations": [
+				{
+					"id": "apd-col",
+					"title": "كولوسي"
+				},
+				{
+					"id": "ase-col",
+					"title": "Colossians"
+				},
+				{
+					"id": "cmn-col",
+					"title": "《歌羅西書》"
+				},
+				{
+					"id": "eng-col",
+					"title": "Colossians"
+				},
+				{
+					"id": "fas-col",
+					"title": null
+				},
+				{
+					"id": "fil-col",
+					"title": "Mga Taga-Colosas"
+				},
+				{
+					"id": "fra-col",
+					"title": "Colossiens"
+				},
+				{
+					"id": "hin-col",
+					"title": "कुलुस्सियों"
+				},
+				{
+					"id": "ind-col",
+					"title": "Kolose"
+				},
+				{
+					"id": "por-col",
+					"title": "Colossenses"
+				},
+				{
+					"id": "rus-col",
+					"title": "Колоссянам"
+				},
+				{
+					"id": "spa-col",
+					"title": "Colosenses"
+				},
+				{
+					"id": "swh-col",
+					"title": "Wakolosai"
+				},
+				{
+					"id": "tpi-col",
+					"title": "Kolosi"
+				},
+				{
+					"id": "urd-col",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "1th",
+			"lineup": 52,
+			"title": "1 Thessalonians",
+			"bookTranslations": [
+				{
+					"id": "apd-1th",
+					"title": "تسالونيكي الأولى"
+				},
+				{
+					"id": "ase-1th",
+					"title": "1 Thessalonians"
+				},
+				{
+					"id": "cmn-1th",
+					"title": "《帖撒羅尼迦前書》"
+				},
+				{
+					"id": "eng-1th",
+					"title": "1 Thessalonians"
+				},
+				{
+					"id": "fas-1th",
+					"title": null
+				},
+				{
+					"id": "fil-1th",
+					"title": "1 Mga Taga-Tesalonica"
+				},
+				{
+					"id": "fra-1th",
+					"title": "1 Thessaloniciens"
+				},
+				{
+					"id": "hin-1th",
+					"title": "1 थिस्सलुनीकियों"
+				},
+				{
+					"id": "ind-1th",
+					"title": "1 Tesalonika"
+				},
+				{
+					"id": "por-1th",
+					"title": "1 Tessalonicenses"
+				},
+				{
+					"id": "rus-1th",
+					"title": "1 Фессалоникийцам"
+				},
+				{
+					"id": "spa-1th",
+					"title": "1 Tesalonicenses"
+				},
+				{
+					"id": "swh-1th",
+					"title": "1 Wathesalonike"
+				},
+				{
+					"id": "tpi-1th",
+					"title": "1 Tesalonaika"
+				},
+				{
+					"id": "urd-1th",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "2th",
+			"lineup": 53,
+			"title": "2 Thessalonians",
+			"bookTranslations": [
+				{
+					"id": "apd-2th",
+					"title": "تسالونيكي التانية"
+				},
+				{
+					"id": "ase-2th",
+					"title": "2 Thessalonians"
+				},
+				{
+					"id": "cmn-2th",
+					"title": "《帖撒羅尼迦後書》"
+				},
+				{
+					"id": "eng-2th",
+					"title": "2 Thessalonians"
+				},
+				{
+					"id": "fas-2th",
+					"title": null
+				},
+				{
+					"id": "fil-2th",
+					"title": "2 Mga Taga-Tesalonica"
+				},
+				{
+					"id": "fra-2th",
+					"title": "2 Thessaloniciens"
+				},
+				{
+					"id": "hin-2th",
+					"title": "2 थिस्सलुनीकियों"
+				},
+				{
+					"id": "ind-2th",
+					"title": "2 Tesalonika"
+				},
+				{
+					"id": "por-2th",
+					"title": "2 Tessalonicenses"
+				},
+				{
+					"id": "rus-2th",
+					"title": "2 Фессалоникийцам"
+				},
+				{
+					"id": "spa-2th",
+					"title": "2 Tesalonicenses"
+				},
+				{
+					"id": "swh-2th",
+					"title": "2 Wathesalonike"
+				},
+				{
+					"id": "tpi-2th",
+					"title": "2 Tesalonaika"
+				},
+				{
+					"id": "urd-2th",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "1ti",
+			"lineup": 54,
+			"title": "1 Timothy",
+			"bookTranslations": [
+				{
+					"id": "apd-1ti",
+					"title": "تيموثاوس الأوّل"
+				},
+				{
+					"id": "ase-1ti",
+					"title": "1 Timothy"
+				},
+				{
+					"id": "cmn-1ti",
+					"title": "《提摩太前書》"
+				},
+				{
+					"id": "eng-1ti",
+					"title": "1 Timothy"
+				},
+				{
+					"id": "fas-1ti",
+					"title": null
+				},
+				{
+					"id": "fil-1ti",
+					"title": "1 Timoteo"
+				},
+				{
+					"id": "fra-1ti",
+					"title": "1 Timothée"
+				},
+				{
+					"id": "hin-1ti",
+					"title": "1 तीमुथियुस"
+				},
+				{
+					"id": "ind-1ti",
+					"title": "1 Timotius"
+				},
+				{
+					"id": "por-1ti",
+					"title": "1 Timóteo"
+				},
+				{
+					"id": "rus-1ti",
+					"title": "1 Тимофею"
+				},
+				{
+					"id": "spa-1ti",
+					"title": "1 Timoteo"
+				},
+				{
+					"id": "swh-1ti",
+					"title": "1 Timotheo"
+				},
+				{
+					"id": "tpi-1ti",
+					"title": "1 Timoti"
+				},
+				{
+					"id": "urd-1ti",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "2ti",
+			"lineup": 55,
+			"title": "2 Timothy",
+			"bookTranslations": [
+				{
+					"id": "apd-2ti",
+					"title": "تيموثاوس التاني"
+				},
+				{
+					"id": "ase-2ti",
+					"title": "2 Timothy"
+				},
+				{
+					"id": "cmn-2ti",
+					"title": "《提摩太後書》"
+				},
+				{
+					"id": "eng-2ti",
+					"title": "2 Timothy"
+				},
+				{
+					"id": "fas-2ti",
+					"title": null
+				},
+				{
+					"id": "fil-2ti",
+					"title": "2 Timoteo"
+				},
+				{
+					"id": "fra-2ti",
+					"title": "2 Timothée"
+				},
+				{
+					"id": "hin-2ti",
+					"title": "2 तीमुथियुस"
+				},
+				{
+					"id": "ind-2ti",
+					"title": "2 Timotius"
+				},
+				{
+					"id": "por-2ti",
+					"title": "2 Timóteo"
+				},
+				{
+					"id": "rus-2ti",
+					"title": "2 Тимофею"
+				},
+				{
+					"id": "spa-2ti",
+					"title": "2 Timoteo"
+				},
+				{
+					"id": "swh-2ti",
+					"title": "2 Timotheo"
+				},
+				{
+					"id": "tpi-2ti",
+					"title": "2 Timoti"
+				},
+				{
+					"id": "urd-2ti",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "tit",
+			"lineup": 56,
+			"title": "Titus",
+			"bookTranslations": [
+				{
+					"id": "apd-tit",
+					"title": "تيطس"
+				},
+				{
+					"id": "ase-tit",
+					"title": "Titus"
+				},
+				{
+					"id": "cmn-tit",
+					"title": "《提多書》"
+				},
+				{
+					"id": "eng-tit",
+					"title": "Titus"
+				},
+				{
+					"id": "fas-tit",
+					"title": null
+				},
+				{
+					"id": "fil-tit",
+					"title": "Tito"
+				},
+				{
+					"id": "fra-tit",
+					"title": "Tite"
+				},
+				{
+					"id": "hin-tit",
+					"title": "तीतुस"
+				},
+				{
+					"id": "ind-tit",
+					"title": "Titus"
+				},
+				{
+					"id": "por-tit",
+					"title": "Tito"
+				},
+				{
+					"id": "rus-tit",
+					"title": "Титу"
+				},
+				{
+					"id": "spa-tit",
+					"title": "Tito"
+				},
+				{
+					"id": "swh-tit",
+					"title": "Tito"
+				},
+				{
+					"id": "tpi-tit",
+					"title": "Taitus"
+				},
+				{
+					"id": "urd-tit",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "phm",
+			"lineup": 57,
+			"title": "Philemon",
+			"bookTranslations": [
+				{
+					"id": "apd-phm",
+					"title": "فليمون"
+				},
+				{
+					"id": "ase-phm",
+					"title": "Philemon"
+				},
+				{
+					"id": "cmn-phm",
+					"title": "《腓利門書》"
+				},
+				{
+					"id": "eng-phm",
+					"title": "Philemon"
+				},
+				{
+					"id": "fas-phm",
+					"title": null
+				},
+				{
+					"id": "fil-phm",
+					"title": "Filemon"
+				},
+				{
+					"id": "fra-phm",
+					"title": "Philémon"
+				},
+				{
+					"id": "hin-phm",
+					"title": "फिलेमोन"
+				},
+				{
+					"id": "ind-phm",
+					"title": "Filemon"
+				},
+				{
+					"id": "por-phm",
+					"title": "Filemom"
+				},
+				{
+					"id": "rus-phm",
+					"title": "Филемону"
+				},
+				{
+					"id": "spa-phm",
+					"title": "Filemón"
+				},
+				{
+					"id": "swh-phm",
+					"title": "Filemoni"
+				},
+				{
+					"id": "tpi-phm",
+					"title": "Filemon"
+				},
+				{
+					"id": "urd-phm",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "heb",
+			"lineup": 58,
+			"title": "Hebrews",
+			"bookTranslations": [
+				{
+					"id": "apd-heb",
+					"title": "عبرانيين"
+				},
+				{
+					"id": "ase-heb",
+					"title": "Hebrews"
+				},
+				{
+					"id": "cmn-heb",
+					"title": "《希伯來書》"
+				},
+				{
+					"id": "eng-heb",
+					"title": "Hebrews"
+				},
+				{
+					"id": "fas-heb",
+					"title": null
+				},
+				{
+					"id": "fil-heb",
+					"title": "Mga Hebreo"
+				},
+				{
+					"id": "fra-heb",
+					"title": "Hébreux"
+				},
+				{
+					"id": "hin-heb",
+					"title": "इब्रानियों"
+				},
+				{
+					"id": "ind-heb",
+					"title": "Ibrani"
+				},
+				{
+					"id": "por-heb",
+					"title": "Hebreus"
+				},
+				{
+					"id": "rus-heb",
+					"title": "Евреям"
+				},
+				{
+					"id": "spa-heb",
+					"title": "Hebreos"
+				},
+				{
+					"id": "swh-heb",
+					"title": "Waebrania"
+				},
+				{
+					"id": "tpi-heb",
+					"title": "Hibru"
+				},
+				{
+					"id": "urd-heb",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "jas",
+			"lineup": 59,
+			"title": "James",
+			"bookTranslations": [
+				{
+					"id": "apd-jas",
+					"title": "يعقوب"
+				},
+				{
+					"id": "ase-jas",
+					"title": "James"
+				},
+				{
+					"id": "cmn-jas",
+					"title": "《雅各書》"
+				},
+				{
+					"id": "eng-jas",
+					"title": "James"
+				},
+				{
+					"id": "fas-jas",
+					"title": null
+				},
+				{
+					"id": "fil-jas",
+					"title": "Santiago"
+				},
+				{
+					"id": "fra-jas",
+					"title": "Jacques"
+				},
+				{
+					"id": "hin-jas",
+					"title": "याकूब"
+				},
+				{
+					"id": "ind-jas",
+					"title": "Yakobus"
+				},
+				{
+					"id": "por-jas",
+					"title": "Tiago"
+				},
+				{
+					"id": "rus-jas",
+					"title": "Иакова"
+				},
+				{
+					"id": "spa-jas",
+					"title": "Santiago"
+				},
+				{
+					"id": "swh-jas",
+					"title": "Yakobo"
+				},
+				{
+					"id": "tpi-jas",
+					"title": "Jems"
+				},
+				{
+					"id": "urd-jas",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "1pe",
+			"lineup": 60,
+			"title": "1 Peter",
+			"bookTranslations": [
+				{
+					"id": "apd-1pe",
+					"title": "بطرس الأولى"
+				},
+				{
+					"id": "ase-1pe",
+					"title": "1 Peter"
+				},
+				{
+					"id": "cmn-1pe",
+					"title": "《彼得前書》"
+				},
+				{
+					"id": "eng-1pe",
+					"title": "1 Peter"
+				},
+				{
+					"id": "fas-1pe",
+					"title": null
+				},
+				{
+					"id": "fil-1pe",
+					"title": "1 Pedro"
+				},
+				{
+					"id": "fra-1pe",
+					"title": "1 Pierre"
+				},
+				{
+					"id": "hin-1pe",
+					"title": "1 पतरस"
+				},
+				{
+					"id": "ind-1pe",
+					"title": "1 Petrus"
+				},
+				{
+					"id": "por-1pe",
+					"title": "1 Pedro"
+				},
+				{
+					"id": "rus-1pe",
+					"title": "1 Петра"
+				},
+				{
+					"id": "spa-1pe",
+					"title": "1 Pedro"
+				},
+				{
+					"id": "swh-1pe",
+					"title": "1 Petro"
+				},
+				{
+					"id": "tpi-1pe",
+					"title": "1 Pita"
+				},
+				{
+					"id": "urd-1pe",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "2pe",
+			"lineup": 61,
+			"title": "2 Peter",
+			"bookTranslations": [
+				{
+					"id": "apd-2pe",
+					"title": "بطرس التانيّة"
+				},
+				{
+					"id": "ase-2pe",
+					"title": "2 Peter"
+				},
+				{
+					"id": "cmn-2pe",
+					"title": "《彼得後書》"
+				},
+				{
+					"id": "eng-2pe",
+					"title": "2 Peter"
+				},
+				{
+					"id": "fas-2pe",
+					"title": null
+				},
+				{
+					"id": "fil-2pe",
+					"title": "2 Pedro"
+				},
+				{
+					"id": "fra-2pe",
+					"title": "2 Pierre"
+				},
+				{
+					"id": "hin-2pe",
+					"title": "2 पतरस"
+				},
+				{
+					"id": "ind-2pe",
+					"title": "2 Petrus"
+				},
+				{
+					"id": "por-2pe",
+					"title": "2 Pedro"
+				},
+				{
+					"id": "rus-2pe",
+					"title": "2 Петра"
+				},
+				{
+					"id": "spa-2pe",
+					"title": "2 Pedro"
+				},
+				{
+					"id": "swh-2pe",
+					"title": "2 Petro"
+				},
+				{
+					"id": "tpi-2pe",
+					"title": "2 Pita"
+				},
+				{
+					"id": "urd-2pe",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "1jn",
+			"lineup": 62,
+			"title": "1 John",
+			"bookTranslations": [
+				{
+					"id": "apd-1jn",
+					"title": "يوحنا الأولى"
+				},
+				{
+					"id": "ase-1jn",
+					"title": "1 John"
+				},
+				{
+					"id": "cmn-1jn",
+					"title": "《約翰一書》"
+				},
+				{
+					"id": "eng-1jn",
+					"title": "1 John"
+				},
+				{
+					"id": "fas-1jn",
+					"title": null
+				},
+				{
+					"id": "fil-1jn",
+					"title": "1 Juan"
+				},
+				{
+					"id": "fra-1jn",
+					"title": "1 Jean"
+				},
+				{
+					"id": "hin-1jn",
+					"title": "1 यूहन्ना"
+				},
+				{
+					"id": "ind-1jn",
+					"title": "1 Yohanes"
+				},
+				{
+					"id": "por-1jn",
+					"title": "1 João"
+				},
+				{
+					"id": "rus-1jn",
+					"title": "1 Иоанна"
+				},
+				{
+					"id": "spa-1jn",
+					"title": "1 Juan"
+				},
+				{
+					"id": "swh-1jn",
+					"title": "1 Yohana"
+				},
+				{
+					"id": "tpi-1jn",
+					"title": "1 Jon"
+				},
+				{
+					"id": "urd-1jn",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "2jn",
+			"lineup": 63,
+			"title": "2 John",
+			"bookTranslations": [
+				{
+					"id": "apd-2jn",
+					"title": "يوحنا التانيّة"
+				},
+				{
+					"id": "ase-2jn",
+					"title": "2 John"
+				},
+				{
+					"id": "cmn-2jn",
+					"title": "《約翰二書》"
+				},
+				{
+					"id": "eng-2jn",
+					"title": "2 John"
+				},
+				{
+					"id": "fas-2jn",
+					"title": null
+				},
+				{
+					"id": "fil-2jn",
+					"title": "2 Juan"
+				},
+				{
+					"id": "fra-2jn",
+					"title": "2 Jean"
+				},
+				{
+					"id": "hin-2jn",
+					"title": "2 यूहन्ना"
+				},
+				{
+					"id": "ind-2jn",
+					"title": "2 Yohanes"
+				},
+				{
+					"id": "por-2jn",
+					"title": "2 João"
+				},
+				{
+					"id": "rus-2jn",
+					"title": "2 Иоанна"
+				},
+				{
+					"id": "spa-2jn",
+					"title": "2 Juan"
+				},
+				{
+					"id": "swh-2jn",
+					"title": "2 Yohana"
+				},
+				{
+					"id": "tpi-2jn",
+					"title": "2 Jon"
+				},
+				{
+					"id": "urd-2jn",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "3jn",
+			"lineup": 64,
+			"title": "3 John",
+			"bookTranslations": [
+				{
+					"id": "apd-3jn",
+					"title": "يوحنا التالتة"
+				},
+				{
+					"id": "ase-3jn",
+					"title": "3 John"
+				},
+				{
+					"id": "cmn-3jn",
+					"title": "《約翰三書》"
+				},
+				{
+					"id": "eng-3jn",
+					"title": "3 John"
+				},
+				{
+					"id": "fas-3jn",
+					"title": null
+				},
+				{
+					"id": "fil-3jn",
+					"title": "3 Juan"
+				},
+				{
+					"id": "fra-3jn",
+					"title": "3 Jean"
+				},
+				{
+					"id": "hin-3jn",
+					"title": "3 यूहन्ना"
+				},
+				{
+					"id": "ind-3jn",
+					"title": "3 Yohanes"
+				},
+				{
+					"id": "por-3jn",
+					"title": "3 João"
+				},
+				{
+					"id": "rus-3jn",
+					"title": "3 Иоанна"
+				},
+				{
+					"id": "spa-3jn",
+					"title": "3 Juan"
+				},
+				{
+					"id": "swh-3jn",
+					"title": "3 Yohana"
+				},
+				{
+					"id": "tpi-3jn",
+					"title": "3 Jon"
+				},
+				{
+					"id": "urd-3jn",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "jud",
+			"lineup": 65,
+			"title": "Jude",
+			"bookTranslations": [
+				{
+					"id": "apd-jud",
+					"title": "يهوذا"
+				},
+				{
+					"id": "ase-jud",
+					"title": "Jude"
+				},
+				{
+					"id": "cmn-jud",
+					"title": "《猶大書》"
+				},
+				{
+					"id": "eng-jud",
+					"title": "Jude"
+				},
+				{
+					"id": "fas-jud",
+					"title": null
+				},
+				{
+					"id": "fil-jud",
+					"title": "Judas"
+				},
+				{
+					"id": "fra-jud",
+					"title": "Jude"
+				},
+				{
+					"id": "hin-jud",
+					"title": "यहूदा"
+				},
+				{
+					"id": "ind-jud",
+					"title": "Yudas"
+				},
+				{
+					"id": "por-jud",
+					"title": "Judas"
+				},
+				{
+					"id": "rus-jud",
+					"title": "Иуды"
+				},
+				{
+					"id": "spa-jud",
+					"title": "Judas"
+				},
+				{
+					"id": "swh-jud",
+					"title": "Yuda"
+				},
+				{
+					"id": "tpi-jud",
+					"title": "Jut"
+				},
+				{
+					"id": "urd-jud",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "rev",
+			"lineup": 66,
+			"title": "Revelation",
+			"bookTranslations": [
+				{
+					"id": "apd-rev",
+					"title": "رؤيا"
+				},
+				{
+					"id": "ase-rev",
+					"title": "Revelation"
+				},
+				{
+					"id": "cmn-rev",
+					"title": "《啟示錄》"
+				},
+				{
+					"id": "eng-rev",
+					"title": "Revelation"
+				},
+				{
+					"id": "fas-rev",
+					"title": null
+				},
+				{
+					"id": "fil-rev",
+					"title": "Pahayag"
+				},
+				{
+					"id": "fra-rev",
+					"title": "Apocalypse"
+				},
+				{
+					"id": "hin-rev",
+					"title": "प्रकाशितवाक्य"
+				},
+				{
+					"id": "ind-rev",
+					"title": "Wahyu"
+				},
+				{
+					"id": "por-rev",
+					"title": "Apocalipse"
+				},
+				{
+					"id": "rus-rev",
+					"title": "Откровение"
+				},
+				{
+					"id": "spa-rev",
+					"title": "Revelaciones"
+				},
+				{
+					"id": "swh-rev",
+					"title": "Ufunuo"
+				},
+				{
+					"id": "tpi-rev",
+					"title": "Kamapim Tok Hait"
+				},
+				{
+					"id": "urd-rev",
+					"title": null
+				}
+			]
+		}
+	]
+}
