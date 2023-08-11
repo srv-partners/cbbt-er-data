@@ -27,7 +27,7 @@
 
 ## About the Project
 
-Proper internalization of Scripture is the key to effective Bible translation. CBBT-ER is built with proper orality strategies for primary oral learners. It provides a 6-step internalization process for every pericope in the Bible in audio format. Pericopes also contain attached <b>media items</b> (i.e. photos, videos, illustrations, diagrams, and maps) of people, places and things contained throughout scripture to further help aid in the internalization process. The project started in 2022 and is still in development. Because material is still being created and revised, please treat all materials as a draft (see [disclaimer](#disclaimer)).
+Proper internalization of Scripture is the key to effective Bible translation. CBBT-ER is built with proper orality strategies for primary oral learners. It provides a 6-step internalization process for every pericope in the Bible in audio format. Pericopes will also contain attached <b>asset types</b> (i.e. photos, videos, illustrations, diagrams, and maps) of different <b>media items</b> (i.e. people, places and things) contained throughout scripture to further help aid in the internalization process. The project started in 2022 and is still in development. Because material is still being created and revised, please treat all materials as a draft (see [disclaimer](#disclaimer)).
 
 The project has completed Genesis, Matthew, Mark and Luke, with Job, John and Acts in development. Pericope step development starts with English and is then translated into 14 other languages, including American Sign Language (ESL).
 
