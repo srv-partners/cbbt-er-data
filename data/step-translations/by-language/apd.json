@@ -1,0 +1,35 @@
+{
+	"language": {
+		"id": "apd",
+		"namePrefix": "Sudanese Spoken",
+		"name": "Arabic",
+		"languageOfPrefix": "",
+		"languageOf": "Sudan",
+		"stepTranslations": [
+			{
+				"id": "apd-s1",
+				"title": "الإستماع والقلب"
+			},
+			{
+				"id": "apd-s2",
+				"title": "تجهيز المسْرح"
+			},
+			{
+				"id": "apd-s3",
+				"title": "تحديد المشاهِد"
+			},
+			{
+				"id": "apd-s4",
+				"title": "تجسيد النص"
+			},
+			{
+				"id": "apd-s5",
+				"title": "ملي الفراغات"
+			},
+			{
+				"id": "apd-s6",
+				"title": "تكلّم كلام الله"
+			}
+		]
+	}
+}

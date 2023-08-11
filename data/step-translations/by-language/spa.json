@@ -1,0 +1,35 @@
+{
+	"language": {
+		"id": "spa",
+		"namePrefix": "",
+		"name": "Spanish",
+		"languageOfPrefix": "",
+		"languageOf": "Spain",
+		"stepTranslations": [
+			{
+				"id": "spa-s1",
+				"title": "Escuchar con el corazón"
+			},
+			{
+				"id": "spa-s2",
+				"title": "Pongámonos en contexto"
+			},
+			{
+				"id": "spa-s3",
+				"title": "Definamos las escenas"
+			},
+			{
+				"id": "spa-s4",
+				"title": "Actuemos el texto"
+			},
+			{
+				"id": "spa-s5",
+				"title": "Cerremos las brechas"
+			},
+			{
+				"id": "spa-s6",
+				"title": "Hablar la Palabra"
+			}
+		]
+	}
+}

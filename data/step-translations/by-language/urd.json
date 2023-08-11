@@ -1,0 +1,35 @@
+{
+	"language": {
+		"id": "urd",
+		"namePrefix": "",
+		"name": "Urdu",
+		"languageOfPrefix": "",
+		"languageOf": "Pakistan",
+		"stepTranslations": [
+			{
+				"id": "urd-s1",
+				"title": null
+			},
+			{
+				"id": "urd-s2",
+				"title": null
+			},
+			{
+				"id": "urd-s3",
+				"title": null
+			},
+			{
+				"id": "urd-s4",
+				"title": null
+			},
+			{
+				"id": "urd-s5",
+				"title": null
+			},
+			{
+				"id": "urd-s6",
+				"title": null
+			}
+		]
+	}
+}

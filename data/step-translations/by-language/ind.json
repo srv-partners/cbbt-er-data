@@ -1,0 +1,35 @@
+{
+	"language": {
+		"id": "ind",
+		"namePrefix": "",
+		"name": "Indonesian",
+		"languageOfPrefix": "",
+		"languageOf": "Indonesia",
+		"stepTranslations": [
+			{
+				"id": "ind-s1",
+				"title": "Mendengar dan Hati"
+			},
+			{
+				"id": "ind-s2",
+				"title": "MEMPERSIAPKAN PANGGUNG"
+			},
+			{
+				"id": "ind-s3",
+				"title": "MENJELASKAN ADEGAN"
+			},
+			{
+				"id": "ind-s4",
+				"title": "MEWUJUDKAN TEKS"
+			},
+			{
+				"id": "ind-s5",
+				"title": "MENGISI CELAH"
+			},
+			{
+				"id": "ind-s6",
+				"title": "Mengucapkan Sabda"
+			}
+		]
+	}
+}

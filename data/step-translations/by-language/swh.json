@@ -1,0 +1,35 @@
+{
+	"language": {
+		"id": "swh",
+		"namePrefix": "",
+		"name": "Swahili",
+		"languageOfPrefix": "United Republic of",
+		"languageOf": "Tanzania",
+		"stepTranslations": [
+			{
+				"id": "swh-s1",
+				"title": "Sikiliza na Moyo"
+			},
+			{
+				"id": "swh-s2",
+				"title": "KUFANYA MAANDALIZI"
+			},
+			{
+				"id": "swh-s3",
+				"title": "KUFAFANUA MATUKIO"
+			},
+			{
+				"id": "swh-s4",
+				"title": "KUDHIHIRISHA MAANDIKO"
+			},
+			{
+				"id": "swh-s5",
+				"title": "KUJAZA MAPENGO"
+			},
+			{
+				"id": "swh-s6",
+				"title": "Kunena Neno"
+			}
+		]
+	}
+}

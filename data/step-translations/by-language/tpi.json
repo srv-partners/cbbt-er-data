@@ -1,0 +1,35 @@
+{
+	"language": {
+		"id": "tpi",
+		"namePrefix": "",
+		"name": "Tok Pisin",
+		"languageOfPrefix": "",
+		"languageOf": "Papua New Guinea",
+		"stepTranslations": [
+			{
+				"id": "tpi-s1",
+				"title": "Harim na Bel/Tingting"
+			},
+			{
+				"id": "tpi-s2",
+				"title": "Stretim dispela Hap"
+			},
+			{
+				"id": "tpi-s3",
+				"title": "Painim aut dispela hap"
+			},
+			{
+				"id": "tpi-s4",
+				"title": "Ektim aut dispela tok"
+			},
+			{
+				"id": "tpi-s5",
+				"title": "Pulapim dispela speis"
+			},
+			{
+				"id": "tpi-s6",
+				"title": null
+			}
+		]
+	}
+}

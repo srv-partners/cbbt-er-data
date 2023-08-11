@@ -1,0 +1,499 @@
+{
+	"languages": [
+		{
+			"id": "apd",
+			"namePrefix": "Sudanese Spoken",
+			"name": "Arabic",
+			"languageOfPrefix": "",
+			"languageOf": "Sudan",
+			"stepTranslations": [
+				{
+					"id": "apd-s1",
+					"title": "الإستماع والقلب"
+				},
+				{
+					"id": "apd-s2",
+					"title": "تجهيز المسْرح"
+				},
+				{
+					"id": "apd-s3",
+					"title": "تحديد المشاهِد"
+				},
+				{
+					"id": "apd-s4",
+					"title": "تجسيد النص"
+				},
+				{
+					"id": "apd-s5",
+					"title": "ملي الفراغات"
+				},
+				{
+					"id": "apd-s6",
+					"title": "تكلّم كلام الله"
+				}
+			]
+		},
+		{
+			"id": "ase",
+			"namePrefix": "",
+			"name": "American Sign Language",
+			"languageOfPrefix": "",
+			"languageOf": "United States",
+			"stepTranslations": [
+				{
+					"id": "ase-s1",
+					"title": "Hear and Heart"
+				},
+				{
+					"id": "ase-s2",
+					"title": "Setting the Stage"
+				},
+				{
+					"id": "ase-s3",
+					"title": "Defining the Scenes"
+				},
+				{
+					"id": "ase-s4",
+					"title": "Embodying the Text"
+				},
+				{
+					"id": "ase-s5",
+					"title": "Filling the Gaps"
+				},
+				{
+					"id": "ase-s6",
+					"title": "Speaking the Word"
+				}
+			]
+		},
+		{
+			"id": "cmn",
+			"namePrefix": "Mandarin",
+			"name": "Chinese",
+			"languageOfPrefix": "",
+			"languageOf": "China",
+			"stepTranslations": [
+				{
+					"id": "cmn-s1",
+					"title": "聆听并铭记于心"
+				},
+				{
+					"id": "cmn-s2",
+					"title": "设定場景"
+				},
+				{
+					"id": "cmn-s3",
+					"title": "定义场景"
+				},
+				{
+					"id": "cmn-s4",
+					"title": "体现情节"
+				},
+				{
+					"id": "cmn-s5",
+					"title": "故事补充"
+				},
+				{
+					"id": "cmn-s6",
+					"title": "说出这个词"
+				}
+			]
+		},
+		{
+			"id": "eng",
+			"namePrefix": "",
+			"name": "English",
+			"languageOfPrefix": "",
+			"languageOf": "United Kingdom",
+			"stepTranslations": [
+				{
+					"id": "eng-s1",
+					"title": "Hear and Heart"
+				},
+				{
+					"id": "eng-s2",
+					"title": "Setting the Stage"
+				},
+				{
+					"id": "eng-s3",
+					"title": "Defining the Scenes"
+				},
+				{
+					"id": "eng-s4",
+					"title": "Embodying the Text"
+				},
+				{
+					"id": "eng-s5",
+					"title": "Filling the Gaps"
+				},
+				{
+					"id": "eng-s6",
+					"title": "Speaking the Word"
+				}
+			]
+		},
+		{
+			"id": "fas",
+			"namePrefix": "",
+			"name": "Persian",
+			"languageOfPrefix": "Islamic Republic of",
+			"languageOf": "Iran",
+			"stepTranslations": [
+				{
+					"id": "fas-s1",
+					"title": null
+				},
+				{
+					"id": "fas-s2",
+					"title": null
+				},
+				{
+					"id": "fas-s3",
+					"title": null
+				},
+				{
+					"id": "fas-s4",
+					"title": null
+				},
+				{
+					"id": "fas-s5",
+					"title": null
+				},
+				{
+					"id": "fas-s6",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "fil",
+			"namePrefix": "",
+			"name": "Filipino",
+			"languageOfPrefix": "",
+			"languageOf": "Philippines",
+			"stepTranslations": [
+				{
+					"id": "fil-s1",
+					"title": "Pakingan at Isapuso"
+				},
+				{
+					"id": "fil-s2",
+					"title": "Pagtatakda ng Kwento"
+				},
+				{
+					"id": "fil-s3",
+					"title": "Pagunawa sa mga Tagpo"
+				},
+				{
+					"id": "fil-s4",
+					"title": "Pagsasadula ng Kwento"
+				},
+				{
+					"id": "fil-s5",
+					"title": "Dagdag na Kaalaman"
+				},
+				{
+					"id": "fil-s6",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "fra",
+			"namePrefix": "",
+			"name": "French",
+			"languageOfPrefix": "",
+			"languageOf": "France",
+			"stepTranslations": [
+				{
+					"id": "fra-s1",
+					"title": "Écouter et cœur"
+				},
+				{
+					"id": "fra-s2",
+					"title": "PLANTER LE DÉCOR"
+				},
+				{
+					"id": "fra-s3",
+					"title": "DÉFINIR LES SCÈNES"
+				},
+				{
+					"id": "fra-s4",
+					"title": "INTÉGRATION DU TEXTE"
+				},
+				{
+					"id": "fra-s5",
+					"title": "COMBLER LES LACUNES"
+				},
+				{
+					"id": "fra-s6",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "hin",
+			"namePrefix": "",
+			"name": "Hindi",
+			"languageOfPrefix": "",
+			"languageOf": "India",
+			"stepTranslations": [
+				{
+					"id": "hin-s1",
+					"title": "सुनें और हृदय"
+				},
+				{
+					"id": "hin-s2",
+					"title": "रंगमंच को तैयार करना"
+				},
+				{
+					"id": "hin-s3",
+					"title": "दृश्यों को परिभाषित करना"
+				},
+				{
+					"id": "hin-s4",
+					"title": "पाठ को एक मूर्त आकार देना"
+				},
+				{
+					"id": "hin-s5",
+					"title": "कुछ आवश्यक जानकारी"
+				},
+				{
+					"id": "hin-s6",
+					"title": "बात कहना"
+				}
+			]
+		},
+		{
+			"id": "ind",
+			"namePrefix": "",
+			"name": "Indonesian",
+			"languageOfPrefix": "",
+			"languageOf": "Indonesia",
+			"stepTranslations": [
+				{
+					"id": "ind-s1",
+					"title": "Mendengar dan Hati"
+				},
+				{
+					"id": "ind-s2",
+					"title": "MEMPERSIAPKAN PANGGUNG"
+				},
+				{
+					"id": "ind-s3",
+					"title": "MENJELASKAN ADEGAN"
+				},
+				{
+					"id": "ind-s4",
+					"title": "MEWUJUDKAN TEKS"
+				},
+				{
+					"id": "ind-s5",
+					"title": "MENGISI CELAH"
+				},
+				{
+					"id": "ind-s6",
+					"title": "Mengucapkan Sabda"
+				}
+			]
+		},
+		{
+			"id": "por",
+			"namePrefix": "",
+			"name": "Portuguese",
+			"languageOfPrefix": "",
+			"languageOf": "Portugal",
+			"stepTranslations": [
+				{
+					"id": "por-s1",
+					"title": "Ouvir e sentir"
+				},
+				{
+					"id": "por-s2",
+					"title": "Preparando o cenário"
+				},
+				{
+					"id": "por-s3",
+					"title": "Identificando as cenas"
+				},
+				{
+					"id": "por-s4",
+					"title": "Incorporando o texto"
+				},
+				{
+					"id": "por-s5",
+					"title": "Preenchendo as lacunas"
+				},
+				{
+					"id": "por-s6",
+					"title": "Falando a Palavra"
+				}
+			]
+		},
+		{
+			"id": "rus",
+			"namePrefix": "",
+			"name": "Russian",
+			"languageOfPrefix": "",
+			"languageOf": "Russian Federation",
+			"stepTranslations": [
+				{
+					"id": "rus-s1",
+					"title": "Слышание и сердце"
+				},
+				{
+					"id": "rus-s2",
+					"title": "ПОСТАНОВКА СЦЕНЫ"
+				},
+				{
+					"id": "rus-s3",
+					"title": "ОПРЕДЕЛЕНИЕ СЦЕН"
+				},
+				{
+					"id": "rus-s4",
+					"title": "ВОПЛОЩЕНИЕ ТЕКСТА В ЖИЗНЬ"
+				},
+				{
+					"id": "rus-s5",
+					"title": "ЗАПОЛНЕНИЕ ПРОБЕЛОВ"
+				},
+				{
+					"id": "rus-s6",
+					"title": "Провозглашая Слово"
+				}
+			]
+		},
+		{
+			"id": "spa",
+			"namePrefix": "",
+			"name": "Spanish",
+			"languageOfPrefix": "",
+			"languageOf": "Spain",
+			"stepTranslations": [
+				{
+					"id": "spa-s1",
+					"title": "Escuchar con el corazón"
+				},
+				{
+					"id": "spa-s2",
+					"title": "Pongámonos en contexto"
+				},
+				{
+					"id": "spa-s3",
+					"title": "Definamos las escenas"
+				},
+				{
+					"id": "spa-s4",
+					"title": "Actuemos el texto"
+				},
+				{
+					"id": "spa-s5",
+					"title": "Cerremos las brechas"
+				},
+				{
+					"id": "spa-s6",
+					"title": "Hablar la Palabra"
+				}
+			]
+		},
+		{
+			"id": "swh",
+			"namePrefix": "",
+			"name": "Swahili",
+			"languageOfPrefix": "United Republic of",
+			"languageOf": "Tanzania",
+			"stepTranslations": [
+				{
+					"id": "swh-s1",
+					"title": "Sikiliza na Moyo"
+				},
+				{
+					"id": "swh-s2",
+					"title": "KUFANYA MAANDALIZI"
+				},
+				{
+					"id": "swh-s3",
+					"title": "KUFAFANUA MATUKIO"
+				},
+				{
+					"id": "swh-s4",
+					"title": "KUDHIHIRISHA MAANDIKO"
+				},
+				{
+					"id": "swh-s5",
+					"title": "KUJAZA MAPENGO"
+				},
+				{
+					"id": "swh-s6",
+					"title": "Kunena Neno"
+				}
+			]
+		},
+		{
+			"id": "tpi",
+			"namePrefix": "",
+			"name": "Tok Pisin",
+			"languageOfPrefix": "",
+			"languageOf": "Papua New Guinea",
+			"stepTranslations": [
+				{
+					"id": "tpi-s1",
+					"title": "Harim na Bel/Tingting"
+				},
+				{
+					"id": "tpi-s2",
+					"title": "Stretim dispela Hap"
+				},
+				{
+					"id": "tpi-s3",
+					"title": "Painim aut dispela hap"
+				},
+				{
+					"id": "tpi-s4",
+					"title": "Ektim aut dispela tok"
+				},
+				{
+					"id": "tpi-s5",
+					"title": "Pulapim dispela speis"
+				},
+				{
+					"id": "tpi-s6",
+					"title": null
+				}
+			]
+		},
+		{
+			"id": "urd",
+			"namePrefix": "",
+			"name": "Urdu",
+			"languageOfPrefix": "",
+			"languageOf": "Pakistan",
+			"stepTranslations": [
+				{
+					"id": "urd-s1",
+					"title": null
+				},
+				{
+					"id": "urd-s2",
+					"title": null
+				},
+				{
+					"id": "urd-s3",
+					"title": null
+				},
+				{
+					"id": "urd-s4",
+					"title": null
+				},
+				{
+					"id": "urd-s5",
+					"title": null
+				},
+				{
+					"id": "urd-s6",
+					"title": null
+				}
+			]
+		}
+	]
+}

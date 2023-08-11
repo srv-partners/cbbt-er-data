@@ -1,0 +1,35 @@
+{
+	"language": {
+		"id": "fas",
+		"namePrefix": "",
+		"name": "Persian",
+		"languageOfPrefix": "Islamic Republic of",
+		"languageOf": "Iran",
+		"stepTranslations": [
+			{
+				"id": "fas-s1",
+				"title": null
+			},
+			{
+				"id": "fas-s2",
+				"title": null
+			},
+			{
+				"id": "fas-s3",
+				"title": null
+			},
+			{
+				"id": "fas-s4",
+				"title": null
+			},
+			{
+				"id": "fas-s5",
+				"title": null
+			},
+			{
+				"id": "fas-s6",
+				"title": null
+			}
+		]
+	}
+}

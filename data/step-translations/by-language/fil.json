@@ -1,0 +1,35 @@
+{
+	"language": {
+		"id": "fil",
+		"namePrefix": "",
+		"name": "Filipino",
+		"languageOfPrefix": "",
+		"languageOf": "Philippines",
+		"stepTranslations": [
+			{
+				"id": "fil-s1",
+				"title": "Pakingan at Isapuso"
+			},
+			{
+				"id": "fil-s2",
+				"title": "Pagtatakda ng Kwento"
+			},
+			{
+				"id": "fil-s3",
+				"title": "Pagunawa sa mga Tagpo"
+			},
+			{
+				"id": "fil-s4",
+				"title": "Pagsasadula ng Kwento"
+			},
+			{
+				"id": "fil-s5",
+				"title": "Dagdag na Kaalaman"
+			},
+			{
+				"id": "fil-s6",
+				"title": null
+			}
+		]
+	}
+}

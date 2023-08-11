@@ -1,0 +1,35 @@
+{
+	"language": {
+		"id": "rus",
+		"namePrefix": "",
+		"name": "Russian",
+		"languageOfPrefix": "",
+		"languageOf": "Russian Federation",
+		"stepTranslations": [
+			{
+				"id": "rus-s1",
+				"title": "Слышание и сердце"
+			},
+			{
+				"id": "rus-s2",
+				"title": "ПОСТАНОВКА СЦЕНЫ"
+			},
+			{
+				"id": "rus-s3",
+				"title": "ОПРЕДЕЛЕНИЕ СЦЕН"
+			},
+			{
+				"id": "rus-s4",
+				"title": "ВОПЛОЩЕНИЕ ТЕКСТА В ЖИЗНЬ"
+			},
+			{
+				"id": "rus-s5",
+				"title": "ЗАПОЛНЕНИЕ ПРОБЕЛОВ"
+			},
+			{
+				"id": "rus-s6",
+				"title": "Провозглашая Слово"
+			}
+		]
+	}
+}

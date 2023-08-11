@@ -1,0 +1,35 @@
+{
+	"language": {
+		"id": "hin",
+		"namePrefix": "",
+		"name": "Hindi",
+		"languageOfPrefix": "",
+		"languageOf": "India",
+		"stepTranslations": [
+			{
+				"id": "hin-s1",
+				"title": "सुनें और हृदय"
+			},
+			{
+				"id": "hin-s2",
+				"title": "रंगमंच को तैयार करना"
+			},
+			{
+				"id": "hin-s3",
+				"title": "दृश्यों को परिभाषित करना"
+			},
+			{
+				"id": "hin-s4",
+				"title": "पाठ को एक मूर्त आकार देना"
+			},
+			{
+				"id": "hin-s5",
+				"title": "कुछ आवश्यक जानकारी"
+			},
+			{
+				"id": "hin-s6",
+				"title": "बात कहना"
+			}
+		]
+	}
+}

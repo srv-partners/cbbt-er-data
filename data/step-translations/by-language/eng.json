@@ -1,0 +1,35 @@
+{
+	"language": {
+		"id": "eng",
+		"namePrefix": "",
+		"name": "English",
+		"languageOfPrefix": "",
+		"languageOf": "United Kingdom",
+		"stepTranslations": [
+			{
+				"id": "eng-s1",
+				"title": "Hear and Heart"
+			},
+			{
+				"id": "eng-s2",
+				"title": "Setting the Stage"
+			},
+			{
+				"id": "eng-s3",
+				"title": "Defining the Scenes"
+			},
+			{
+				"id": "eng-s4",
+				"title": "Embodying the Text"
+			},
+			{
+				"id": "eng-s5",
+				"title": "Filling the Gaps"
+			},
+			{
+				"id": "eng-s6",
+				"title": "Speaking the Word"
+			}
+		]
+	}
+}

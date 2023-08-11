@@ -1,0 +1,35 @@
+{
+	"language": {
+		"id": "ase",
+		"namePrefix": "",
+		"name": "American Sign Language",
+		"languageOfPrefix": "",
+		"languageOf": "United States",
+		"stepTranslations": [
+			{
+				"id": "ase-s1",
+				"title": "Hear and Heart"
+			},
+			{
+				"id": "ase-s2",
+				"title": "Setting the Stage"
+			},
+			{
+				"id": "ase-s3",
+				"title": "Defining the Scenes"
+			},
+			{
+				"id": "ase-s4",
+				"title": "Embodying the Text"
+			},
+			{
+				"id": "ase-s5",
+				"title": "Filling the Gaps"
+			},
+			{
+				"id": "ase-s6",
+				"title": "Speaking the Word"
+			}
+		]
+	}
+}

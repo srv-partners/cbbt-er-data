@@ -1,0 +1,35 @@
+{
+	"language": {
+		"id": "fra",
+		"namePrefix": "",
+		"name": "French",
+		"languageOfPrefix": "",
+		"languageOf": "France",
+		"stepTranslations": [
+			{
+				"id": "fra-s1",
+				"title": "Écouter et cœur"
+			},
+			{
+				"id": "fra-s2",
+				"title": "PLANTER LE DÉCOR"
+			},
+			{
+				"id": "fra-s3",
+				"title": "DÉFINIR LES SCÈNES"
+			},
+			{
+				"id": "fra-s4",
+				"title": "INTÉGRATION DU TEXTE"
+			},
+			{
+				"id": "fra-s5",
+				"title": "COMBLER LES LACUNES"
+			},
+			{
+				"id": "fra-s6",
+				"title": null
+			}
+		]
+	}
+}

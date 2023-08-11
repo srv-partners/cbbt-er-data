@@ -1,0 +1,35 @@
+{
+	"language": {
+		"id": "cmn",
+		"namePrefix": "Mandarin",
+		"name": "Chinese",
+		"languageOfPrefix": "",
+		"languageOf": "China",
+		"stepTranslations": [
+			{
+				"id": "cmn-s1",
+				"title": "聆听并铭记于心"
+			},
+			{
+				"id": "cmn-s2",
+				"title": "设定場景"
+			},
+			{
+				"id": "cmn-s3",
+				"title": "定义场景"
+			},
+			{
+				"id": "cmn-s4",
+				"title": "体现情节"
+			},
+			{
+				"id": "cmn-s5",
+				"title": "故事补充"
+			},
+			{
+				"id": "cmn-s6",
+				"title": "说出这个词"
+			}
+		]
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"language": {
+		"id": "por",
+		"namePrefix": "",
+		"name": "Portuguese",
+		"languageOfPrefix": "",
+		"languageOf": "Portugal",
+		"stepTranslations": [
+			{
+				"id": "por-s1",
+				"title": "Ouvir e sentir"
+			},
+			{
+				"id": "por-s2",
+				"title": "Preparando o cenário"
+			},
+			{
+				"id": "por-s3",
+				"title": "Identificando as cenas"
+			},
+			{
+				"id": "por-s4",
+				"title": "Incorporando o texto"
+			},
+			{
+				"id": "por-s5",
+				"title": "Preenchendo as lacunas"
+			},
+			{
+				"id": "por-s6",
+				"title": "Falando a Palavra"
+			}
+		]
+	}
+}
