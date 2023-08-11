@@ -172,15 +172,14 @@ type PericopeTranslation {
 #### StepTranslation
 
 ```graphql
-	type StepTranslation {
-		id: ID! # eng-s1
-		title: String # Hear and Heart
-		# Relationships:
-		language: Language!
-		stepReference: StepReference!
-		stepRenderings: [StepRendering!]!
-	}
-`
+type StepTranslation {
+	id: ID! # eng-s1
+	title: String # Hear and Heart
+	# Relationships:
+	language: Language!
+	stepReference: StepReference!
+	stepRenderings: [StepRendering!]!
+}
 ```
 
 ### Renderings
