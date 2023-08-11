@@ -101,7 +101,7 @@ type PericopeReference {
 
 ##### An Explanation of Pericope IDs
 
-Pericope IDs first start from lists developed by [Faith Comes by Hearing (FCBH)](https://www.faithcomesbyhearing.com), and are roughly 10.5 verses on average. Before work on a new book begins, it is determined whether or not one or more pericopes need to be split. This is done to ensure that pericopes aren't too long for oral audiences. Once the list is set, pericope IDs get assigned in sequential order. For example, verses 1:1-13, 1:14-20 and 1:21-28 will get pericope IDs of p1, p2, p3. Using pericope IDs, instead of verses, have been helpful and resulted in less human-prone mistakes.
+Pericope IDs first start from lists developed by [Faith Comes by Hearing (FCBH)](https://www.faithcomesbyhearing.com), and are roughly 10.5 verses on average. Before work on a new book begins, it is determined whether or not one or more pericopes need to be split. This is done to ensure that pericopes aren't too long for oral audiences. Once the list is set, pericope IDs get assigned in sequential order. For example, verses 1:1-13, 1:14-20 and 1:21-28 will get pericope IDs of p1, p2, and p3. Using pericope IDs, instead of verses, have been helpful and resulted in less human-prone mistakes.
 
 As work begins, it is often the case that a few pericopes need to be split further. Again, this is usually due to the amount of exegetical material that needs to be communicated to an oral audience. When this happens, pericope IDs are given an additional letter to signal the split. For example, "p1" might become "p1a" and "p1b". It's done this way to ensure that the remaining pericope IDs don't change, as they might already be assigned to other individuals.
 
