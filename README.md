@@ -66,13 +66,13 @@ To further help understand this pattern, please see the graph diagram below. In 
 
 ```graphql
 type BookReference {
-	# Fields:
-	id: ID! # "mrk"
-	title: String! # "Mark"
-	lineup: Int! # 41
-	# Relationships:
-	bookTranslations: [BookTranslation!]!
-	pericopeReferences: [PericopeReference!]!
+  # Fields:
+  id: ID! # "mrk"
+  title: String! # "Mark"
+  lineup: Int! # 41
+  # Relationships:
+  bookTranslations: [BookTranslation!]!
+  pericopeReferences: [PericopeReference!]!
 }
 ```
 
@@ -80,22 +80,22 @@ type BookReference {
 
 ```graphql
 type PericopeReference {
-	# Fields:
-	id: ID! # "mrk-p19a"
-	pId: ID! # "p19a"
-	sequence: Int! # 19
-	split: String # "a"
-	startChapter: Int! # 5
-	startVerse: Int! # 21
-	startPortion: String # "b"
-	endChapter: Int! # 5
-	endVerse: Int! # 34
-	endPortion: String # "a"
-	verseRange: String! # "5:35b-43a"
-	# Relationships:
-	bookReference: BookReference!
-		@relationship(type: "CONTAINS_PERICOPE", direction: IN)
-	pericopeTranslations: [PericopeTranslation!]!
+  # Fields:
+  id: ID! # "mrk-p19a"
+  pId: ID! # "p19a"
+  sequence: Int! # 19
+  split: String # "a"
+  startChapter: Int! # 5
+  startVerse: Int! # 21
+  startPortion: String # "b"
+  endChapter: Int! # 5
+  endVerse: Int! # 34
+  endPortion: String # "a"
+  verseRange: String! # "5:35b-43a"
+  # Relationships:
+  bookReference: BookReference!
+    @relationship(type: "CONTAINS_PERICOPE", direction: IN)
+  pericopeTranslations: [PericopeTranslation!]!
 }
 ```
 
@@ -111,12 +111,12 @@ You should notice that files names will contain the letter "p" in "p1" to distin
 
 ```graphql
 type StepReference {
-	# Fields:
-	id: ID! # 1
-	sId: ID! # "s1"
-	title: String! # "Hear and Heart"
-	# Relationships:
-	stepTranslations: [StepTranslation!]!
+  # Fields:
+  id: ID! # 1
+  sId: ID! # "s1"
+  title: String! # "Hear and Heart"
+  # Relationships:
+  stepTranslations: [StepTranslation!]!
 }
 ```
 
@@ -126,17 +126,17 @@ type StepReference {
 
 ```graphql
 type Language {
-	# Fields:
-	id: String! # "eng"
-	namePrefix: String # "Mandarin"
-	name: String! # "Chinese"
-	languageOfPrefix: String # "United Republic of"
-	languageOf: String! # "Tanzania"
-	# Relationships:
-	bookTranslations: [BookTranslation!]!
-	pericopeTranslations: [PericopeTranslation!]!
-	stepRenderings: [StepRendering!]!
-	stepTranslations: [StepTranslation!]!
+  # Fields:
+  id: String! # "eng"
+  namePrefix: String # "Mandarin"
+  name: String! # "Chinese"
+  languageOfPrefix: String # "United Republic of"
+  languageOf: String! # "Tanzania"
+  # Relationships:
+  bookTranslations: [BookTranslation!]!
+  pericopeTranslations: [PericopeTranslation!]!
+  stepRenderings: [StepRendering!]!
+  stepTranslations: [StepTranslation!]!
 }
 ```
 
@@ -144,13 +144,13 @@ type Language {
 
 ```graphql
 type BookTranslation {
-	# Fields:
-	id: ID! # eng-mrk
-	title: String # Mark
-	# Relationships:
-	bookReference: BookReference!
-	language: Language!
-	pericopeTranslations: [PericopeTranslation!]!
+  # Fields:
+  id: ID! # eng-mrk
+  title: String # Mark
+  # Relationships:
+  bookReference: BookReference!
+  language: Language!
+  pericopeTranslations: [PericopeTranslation!]!
 }
 ```
 
@@ -158,14 +158,14 @@ type BookTranslation {
 
 ```graphql
 type PericopeTranslation {
-	# Fields:
-	id: ID! # eng-mrk-p1
-	# Relationships:
-	language: Language!
-	bookTranslation: BookTranslation!
-	pericopeReference: PericopeReference!
-	statuses: [Status!]!
-	stepRenderings: [StepRendering!]!
+  # Fields:
+  id: ID! # eng-mrk-p1
+  # Relationships:
+  language: Language!
+  bookTranslation: BookTranslation!
+  pericopeReference: PericopeReference!
+  statuses: [Status!]!
+  stepRenderings: [StepRendering!]!
 }
 ```
 
@@ -173,12 +173,12 @@ type PericopeTranslation {
 
 ```graphql
 type StepTranslation {
-	id: ID! # eng-s1
-	title: String # Hear and Heart
-	# Relationships:
-	language: Language!
-	stepReference: StepReference!
-	stepRenderings: [StepRendering!]!
+  id: ID! # eng-s1
+  title: String # Hear and Heart
+  # Relationships:
+  language: Language!
+  stepReference: StepReference!
+  stepRenderings: [StepRendering!]!
 }
 ```
 
@@ -188,22 +188,22 @@ type StepTranslation {
 
 ```graphql
 type StepRendering {
-	# Fields:
-	id: ID! # eng-mrk-p1-s1
-	scriptWordCount: Int # 89
-	scriptMarkdown: String
-	scriptHTML: String
-	scriptPlainText: String
-	audioVBR4Url: String # eng-gen-p58-s4_vbr-4.mp3
-	audioVBR6Url: String # eng-gen-p58-s4_vbr-6.mp3
-	audioCBR32Url: String # eng-gen-p58-s4_cbr-32.mp3
-	audioVBR4Size: Int # 3559340
-	audioVBR6Size: Int # 2791052
-	audioCBR32Size: Int # 2042924
-	# Relationships:
-	language: Language!
-	pericopeTranslation: PericopeTranslation!
-	stepTranslation: StepTranslation!
+  # Fields:
+  id: ID! # eng-mrk-p1-s1
+  scriptWordCount: Int # 89
+  scriptMarkdown: String
+  scriptHTML: String
+  scriptPlainText: String
+  audioVBR4Url: String # eng-gen-p58-s4_vbr-4.mp3
+  audioVBR6Url: String # eng-gen-p58-s4_vbr-6.mp3
+  audioCBR32Url: String # eng-gen-p58-s4_cbr-32.mp3
+  audioVBR4Size: Int # 3559340
+  audioVBR6Size: Int # 2791052
+  audioCBR32Size: Int # 2042924
+  # Relationships:
+  language: Language!
+  pericopeTranslation: PericopeTranslation!
+  stepTranslation: StepTranslation!
 }
 ```
 
