@@ -94,7 +94,6 @@ type PericopeReference {
   verseRange: String! # "5:35b-43a"
   # Relationships:
   bookReference: BookReference!
-    @relationship(type: "CONTAINS_PERICOPE", direction: IN)
   pericopeTranslations: [PericopeTranslation!]!
 }
 ```
