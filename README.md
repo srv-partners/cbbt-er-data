@@ -218,7 +218,7 @@ For more information on compression levels, please visit the [FFmpeg MP3 Encodin
 
 ## Next Steps
 
-- adding <b>media items</b> (i.e. photos and videos) into our conversion/compression processes.
+- adding <b>media items</b> and their <b>asset types</b> into our conversion/compression processes
 - rebranding CBBT-ER (I promise we'll give it a better/easier name with no more than two words)
 - front-facing web application geared toward oral audiences
 - Since latency is a big issue around world, we'll be working on a better long-term solution for edge-located databases/APIs.
