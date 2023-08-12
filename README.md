@@ -22,8 +22,8 @@
 		- [PericopeTranslation](#pericopetranslation)
 		- [StepTranslation](#steptranslation)
 		- [StepRendering](#steprendering)
-				- [Markdown, HTML and Plain Text](#markdown-html-and-plain-text)
-				- [Audio File Names](#audio-file-names)
+			- [Markdown, HTML and Plain Text](#markdown-html-and-plain-text)
+			- [Audio File Names](#audio-file-names)
 - [Next Steps](#next-steps)
 - [Disclaimer](#disclaimer)
 
@@ -214,11 +214,11 @@ type StepRendering {
 }
 ```
 
-###### Markdown, HTML and Plain Text
+##### Markdown, HTML and Plain Text
 
 All 6 written pericope steps will be contained in Markdown, HTML, and plain text. Those are currently being converted through both automated and manual processes with an editor who ensures proper semantic meaning, grammar, etc. These files are still being converted and checked. Therefore, please be patient as we complete that process.
 
-###### Audio File Names
+##### Audio File Names
 
 Audio files contain the following information at the end of the file name: "vbr-4", "vbr-6", and "cbr-32". This refers to "Variable Bitrate" and "Constant Bitrate". The number at the end of "vbr" refers to the quality level—the higher the number, the more compressed it is. The number at the end of "cbr" means that the audio contains a <em>consistent bitrate</em> of "32" throughout the audio file. The files go from larger to smaller in this order: (1) vbr-4, (2) vbr-6, (3) cbr-32. Although simpler terminology, like small, medium and large, could have been used, we felt it was important for developers to understand the type of compression they were getting.
 
