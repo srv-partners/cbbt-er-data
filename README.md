@@ -53,12 +53,6 @@ When the GraphQL API is finished and we have transitioned away from the JSON fil
 <dd>A <b>media item</b> is a person, place or thing as it existed in history. Examples include "Camel," "Roman Sword," "Sea of Galilee," "Herod's Temple" and "Sheep." Since Jerusalem looked different during the time of Jesus than it did during the time of David, those 2 instances of Jerusalem would count as 2 separate <b>media items</b>. <b>Media items</b> can have one or more <b>asset types</b> (i.e. photos, videos, illustrations, and diagrams) associated with each <b>media item</b>. Videos will also have verbal recordings in 15 languages describing the items.</dd>
 <dt>Pericope</dt>
 <dd>A pericope is a "set of verses that forms one coherent unit or thought." - <a target="_blank" href="https://en.wikipedia.org/wiki/Pericope">Wikipedia</a></dd>
-<dt>References</dt>
-<dd>See <a href="#references-vs-translations">References vs Translations</a> for more information.</dd>
-<dt>Renderings</dt>
-<dd>See <a href="#renderings">Renderings</a> for more information.</dd>
-<dt>Translations</dt>
-<dd>See <a href="#references-vs-translations">References vs Translations</a> for more information.</dd>
 </dl>
 
 ## GraphQL Schema
@@ -70,7 +64,7 @@ When working with the JSON files, and the future GraphQL API, there are a few sc
 <b>References</b> are the primary nodes and are language agnostic. For example, the book of Mark has only one <b>BookReference</b> node. With 66 books in the Bible, there are 66 <b>BookReference</b> nodes in total. Since the project is targeting 15 translations, there will be 15 <b>BookTranslation</b> nodes for each <b>BookReference</b>. This is a one-to-many relationship, and that pattern of References to Translations continues throughout the project (e.g. There are 6 <b>StepReference</b> nodes and 15 <b>StepTranslation</b> nodes per <b>StepReference</b>). References always contain the language-agnostic information. For example the starting and ending chapters and verses for a pericope will only be contained in the <b>PericopeReference</b> node. Information pertaining to the translation will only be contained in the <b>PericopeTranslation</b> node.
 
 #### Renderings
-A <b>StepRendering</b> exists at the intersection of <b>PericopeTranslation</b> and <b>StepTranslation</b>. If <b>PericopeTranslation</b> was one river, and <b>StepTranslation</b> was a second, <b>StepRendering</b> would be the [confluence](https://en.wikipedia.org/wiki/Confluence). It's the main source of information containing the transcripts and audio files for each step in each pericope of a given language translation.
+So what about "renderings" mentioned earlier? A <b>StepRendering</b> exists at the intersection of <b>PericopeTranslation</b> and <b>StepTranslation</b>. If <b>PericopeTranslation</b> was one river, and <b>StepTranslation</b> was a second, <b>StepRendering</b> would be the [confluence](https://en.wikipedia.org/wiki/Confluence). It's the main source of information containing the transcripts and audio files for each step in each pericope of a given language translation.
 
 #### Graph Diagram
 
