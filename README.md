@@ -42,7 +42,7 @@ We estimate there to be 2893 pericopes in the Bible, and will have 4 audio (vide
 
 Although JSON files in the "data" directory will soon be replaced by a GraphQL API, this repo will use proper versioning tags (see [semver.org](https://semver.org)) to both archive information and alert the user to version-breaking changes. Therefore, if you do use the JSON files for your code, make sure you are only linking to minor/patch version changes of a given major version.
 
-When the GraphQL API is finished and we have transitioned away from the JSON files located in the "data" directory, this repository will become the source of truth for up-to-date documentation about CBBT-ER materials for developers.
+When the GraphQL API is finished and we have transitioned away from the JSON files located in the "data" directory, this repository will continue to be the source of truth for up-to-date documentation about CBBT-ER materials for developers.
 
 ## Key Terms
 
