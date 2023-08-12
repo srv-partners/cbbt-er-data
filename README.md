@@ -8,21 +8,23 @@
 - [About this Repository](#about-this-repository)
 - [Key Terms](#key-terms)
 - [GraphQL Schema](#graphql-schema)
-	- [References](#references)
+	- [Understanding the Schema](#understanding-the-schema)
+		- [References vs Translations](#references-vs-translations)
+		- [Renderings](#renderings)
+		- [Graph Diagram](#graph-diagram)
+	- [Schema Types](#schema-types)
 		- [BookReference](#bookreference)
 		- [PericopeReference](#pericopereference)
 			- [An Explanation of Pericope IDs](#an-explanation-of-pericope-ids)
 		- [StepReference](#stepreference)
-	- [Translations](#translations)
 		- [Language](#language)
 		- [BookTranslation](#booktranslation)
 		- [PericopeTranslation](#pericopetranslation)
 		- [StepTranslation](#steptranslation)
-	- [Renderings](#renderings)
 		- [StepRendering](#steprendering)
-			- [Markdown, HTML and Plain Text](#markdown-html-and-plain-text)
-			- [Audio File Names](#audio-file-names)
-- [Next Steps:](#next-steps)
+				- [Markdown, HTML and Plain Text](#markdown-html-and-plain-text)
+				- [Audio File Names](#audio-file-names)
+- [Next Steps](#next-steps)
 - [Disclaimer](#disclaimer)
 
 ## About the Project
@@ -45,27 +47,38 @@ When the GraphQL API is finished and we have transitioned away from the JSON fil
 ## Key Terms
 
 <dl>
-<dt>Pericope</dt>
-<dd>A pericope is a "set of verses that forms one coherent unit or thought." - <a target="_blank" href="https://en.wikipedia.org/wiki/Pericope">Wikipedia</a></dd>
+<dt>Asset Type</dt>
+<dd>Since a <b>media item</b> is a person, place or thing, an <b>asset type</b> is the photo, video, illustration, and/or diagram attached to the <b>media item</b>. When we refer to an <b>asset type</b> as a photo, we <em>aren't</em> talking about a file format (e.g. PNG, JPEG, etc.). We are referring to something captured on a camera. Some things, like "Camel," can be photographed today. Other things like "Herod's Temple" no longer exist. Therefore, they have to be illustrated and/or diagramed.</dd>
 <dt>Media Item</dt>
 <dd>A <b>media item</b> is a person, place or thing as it existed in history. Examples include "Camel," "Roman Sword," "Sea of Galilee," "Herod's Temple" and "Sheep." Since Jerusalem looked different during the time of Jesus than it did during the time of David, those 2 instances of Jerusalem would count as 2 separate <b>media items</b>. <b>Media items</b> can have one or more <b>asset types</b> (i.e. photos, videos, illustrations, and diagrams) associated with each <b>media item</b>. Videos will also have verbal recordings in 15 languages describing the items.</dd>
-<dt>Asset Type</dt>
-<dd>If a <b>media item</b> is a person, place or thing, an <b>asset type</b> is the photo, video, illustration, and/or diagram attached to the <b>media item</b>. When we refer to an <b>asset type</b> as a photo, we <em>aren't</em> talking about a file format (e.g. PNG, JPEG, etc.). We are referring to something captured on a camera. Some things, like "Camel," can be photographed today. Other things like "Herod's Temple" no longer exist. Therefore, they have to be illustrated and/or diagramed.</dd>
+<dt>Pericope</dt>
+<dd>A pericope is a "set of verses that forms one coherent unit or thought." - <a target="_blank" href="https://en.wikipedia.org/wiki/Pericope">Wikipedia</a></dd>
+<dt>References</dt>
+<dd>See <a href="#references-vs-translations">References vs Translations</a> for more information.</dd>
+<dt>Renderings</dt>
+<dd>See <a href="#renderings">Renderings</a> for more information.</dd>
+<dt>Translations</dt>
+<dd>See <a href="#references-vs-translations">References vs Translations</a> for more information.</dd>
 </dl>
 
 ## GraphQL Schema
 
-When working with the JSON files, and future GraphQL API, there are a few schema types that might not appear intuitive upon first glance. However, the basic structure is straight forward. Testaments (i.e. Old and New Testaments) contain books (e.g. Mark, Acts, etc.), books contain pericopes, and each pericope contains 6 steps. The important part is understanding the difference between "References," "Translations" and "Renderings."
+### Understanding the Schema
+When working with the JSON files, and the future GraphQL API, there are a few schema types that might not appear intuitive upon first glance. However, the basic structure is straight forward. Testaments (i.e. Old and New Testaments) contain books (e.g. Mark, Acts, etc.), books contain pericopes, and each pericope contains 6 steps. The important part is understanding the difference between "References," "Translations" and "Renderings."
 
+#### References vs Translations
 <b>References</b> are the primary nodes and are language agnostic. For example, the book of Mark has only one <b>BookReference</b> node. With 66 books in the Bible, there are 66 <b>BookReference</b> nodes in total. Since the project is targeting 15 translations, there will be 15 <b>BookTranslation</b> nodes for each <b>BookReference</b>. This is a one-to-many relationship, and that pattern of References to Translations continues throughout the project (e.g. There are 6 <b>StepReference</b> nodes and 15 <b>StepTranslation</b> nodes per <b>StepReference</b>). References always contain the language-agnostic information. For example the starting and ending chapters and verses for a pericope will only be contained in the <b>PericopeReference</b> node. Information pertaining to the translation will only be contained in the <b>PericopeTranslation</b> node.
 
-So what about "renderings" mentioned earlier? A <b>StepRendering</b> exists at the intersection of <b>PericopeTranslation</b> and <b>StepTranslation</b>. If <b>PericopeTranslation</b> was one river, and <b>StepTranslation</b> was a second, <b>StepRendering</b> would be the [confluence](https://en.wikipedia.org/wiki/Confluence). It's the main source of information containing the transcripts and audio files for each step in each pericope of a given language translation.
+#### Renderings
+A <b>StepRendering</b> exists at the intersection of <b>PericopeTranslation</b> and <b>StepTranslation</b>. If <b>PericopeTranslation</b> was one river, and <b>StepTranslation</b> was a second, <b>StepRendering</b> would be the [confluence](https://en.wikipedia.org/wiki/Confluence). It's the main source of information containing the transcripts and audio files for each step in each pericope of a given language translation.
+
+#### Graph Diagram
 
 To further help understand this pattern, please see the graph diagram below. In the near future, we'll add the <b>MediaItem</b> and associated types attached to the <b>PericopeReference</b> nodes.
 
 ![Schema](./assets/schema.png)
 
-### References
+### Schema Types
 
 #### BookReference
 
@@ -123,8 +136,6 @@ type StepReference {
   stepTranslations: [StepTranslation!]!
 }
 ```
-
-### Translations
 
 #### Language
 
@@ -186,8 +197,6 @@ type StepTranslation {
 }
 ```
 
-### Renderings
-
 #### StepRendering
 
 ```graphql
@@ -211,11 +220,11 @@ type StepRendering {
 }
 ```
 
-##### Markdown, HTML and Plain Text
+###### Markdown, HTML and Plain Text
 
 All 6 written pericope steps will be contained in Markdown, HTML, and plain text. Those are currently being converted through both automated and manual processes with an editor who ensures proper semantic meaning, grammar, etc. These files are still being converted and checked. Therefore, please be patient as we complete that process.
 
-##### Audio File Names
+###### Audio File Names
 
 Audio files contain the following information at the end of the file name: "vbr-4", "vbr-6", and "cbr-32". This refers to "Variable Bitrate" and "Constant Bitrate". The number at the end of "vbr" refers to the quality level—the higher the number, the more compressed it is. The number at the end of "cbr" means that the audio contains a <em>consistent bitrate</em> of "32" throughout the audio file. The files go from larger to smaller in this order: (1) vbr-4, (2) vbr-6, (3) cbr-32. Although simpler terminology, like small, medium and large, could have been used, we felt it was important for developers to understand the type of compression they were getting.
 
