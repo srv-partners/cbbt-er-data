@@ -35,7 +35,12 @@ We estimate there to be 2893 pericopes in the Bible, and will have 4 audio (vide
 
 ## About this Repository
 
-This repo is meant to be a temporary/alternate location to the GraphQL API in development. Therefore, it's encouraged to <em>not</em> rely on direct links to the JSON files contained in this repo for production code, as they are subject to change and deprecation in the future. However, this repo will use proper versioning tags (e.g. [semver.org](https://semver.org)), as to alert the user when there are version-breaking changes.
+> [!IMPORTANT]
+> This repo is meant to be a temporary/alternate location to the GraphQL API currently in development. Therefore, it's encouraged to <em>not</em> rely on direct links to the JSON files contained in this repo for production code, as they are subject to change and/or deprecation in the future.
+
+Although JSON files in the "data" directory will soon be replaced by a GraphQL API, this repo will use proper versioning tags (see [semver.org](https://semver.org)) to both archive information and alert the user to version-breaking changes. Therefore, if you do use the JSON files for your code, make sure you are only linking to minor/patch version changes of a given major version.
+
+When the GraphQL API is finished and we have transitioned away from the JSON files located in the "data" directory, this repository will become the source of truth for up-to-date documentation about CBBT-ER materials for developers.
 
 ## Key Terms
 
